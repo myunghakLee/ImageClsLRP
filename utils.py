@@ -15,6 +15,9 @@ import torchvision
 import torchvision.transforms as transforms
 from torch.utils.data import DataLoader
 
+from torch.utils.data import Dataset, DataLoader
+from glob import glob
+import pickle
 
 def get_network(args):
     """ return given network
@@ -190,6 +193,43 @@ def get_training_dataloader(mean, std, batch_size=16, num_workers=2, shuffle=Tru
 
     return cifar100_training_loader
 
+def get_training_dataloader_LRP(mean, std, batch_size=16, num_workers=2, shuffle=True, use_LRP_image = False):
+
+
+    transform_train = transforms.Compose([
+        #transforms.ToPILImage(),
+        transforms.RandomCrop(32, padding=4),
+        transforms.RandomHorizontalFlip(),
+        transforms.RandomRotation(15),
+        transforms.ToTensor(),
+        transforms.Normalize(mean, std)
+    ])
+    
+
+    class Cifar10(Dataset):
+        def __init__(self, data_dir = "LRP_Data/train/", transform = None):
+            self.transform = transform
+            self.train_data = []
+            self.train_files = glob(data_dir + "/*.pickle")
+
+
+        def __len__(self):
+            return len(self.train_files)
+
+        def __getitem__(self,idx):
+            with open(self.train_files[idx], 'rb') as f:
+                data = pickle.load(f)
+            return data['img'], data['softlabel'], data['label']
+    
+    
+    cifar100_training = Cifar10(transform=transform_train)
+    cifar100_training_loader = DataLoader(
+        cifar100_training, shuffle=shuffle, num_workers=num_workers, batch_size=batch_size)
+
+    return cifar100_training_loader
+
+
+
 def get_test_dataloader(mean, std, batch_size=16, num_workers=2, shuffle=True):
     """ return training dataloader
     Args:
@@ -212,6 +252,40 @@ def get_test_dataloader(mean, std, batch_size=16, num_workers=2, shuffle=True):
         cifar100_test, shuffle=shuffle, num_workers=num_workers, batch_size=batch_size)
 
     return cifar100_test_loader
+
+def get_test_dataloader_LRP(mean, std, batch_size=16, num_workers=2, shuffle=True, use_LRP_image = False):
+
+
+    transform_test = transforms.Compose([
+        transforms.ToTensor(),
+        transforms.Normalize(mean, std)
+    ])
+    
+
+    class Cifar10(Dataset):
+        def __init__(self, data_dir = "LRP_Data/test/", transform = None):
+            self.transform = transform
+            self.train_data = []
+            self.train_files = glob(data_dir + "/*.pickle")
+
+
+        def __len__(self):
+            return len(self.train_files)
+
+        def __getitem__(self,idx):
+            with open(self.train_files[idx], 'rb') as f:
+                data = pickle.load(f)
+            return data['img'], data['softlabel'], data['label']
+    
+    
+    cifar100_test = Cifar10(transform=transform_test)
+    cifar100_training_loader = DataLoader(
+        cifar100_test, shuffle=shuffle, num_workers=num_workers, batch_size=batch_size)
+
+    return cifar100_training_loader
+
+
+
 
 def compute_mean_std(cifar100_dataset):
     """compute the mean and std of cifar100 dataset

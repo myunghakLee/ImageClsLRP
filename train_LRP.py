@@ -23,22 +23,26 @@ from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 
 from conf import settings
-from utils import get_network, get_training_dataloader, get_test_dataloader, WarmUpLR, \
+from utils import get_network, get_training_dataloader, get_training_dataloader_LRP, \
+    get_test_dataloader, get_test_dataloader_LRP, WarmUpLR, \
     most_recent_folder, most_recent_weights, last_epoch, best_acc_weights
 
-
 import os
-os.environ["CUDA_VISIBLE_DEVICES"]="0"
+os.environ["CUDA_VISIBLE_DEVICES"]="1"
 
-        
+
+criterion_KLD=nn.KLDivLoss(reduction="batchmean")
+loss_function = lambda a,b : criterion_KLD(torch.log_softmax(a, dim=1),torch.softmax(b, dim=1))
+
 def train(epoch, f = None):
 
     start = time.time()
     net.train()
-    for batch_index, (images, labels) in enumerate(cifar100_training_loader):
+    for batch_index, (images, labels, real_labels) in enumerate(cifar100_training_loader):
 
         if args.gpu:
             labels = labels.cuda()
+            real_labels = real_labels.cuda()
             images = images.cuda()
 
         optimizer.zero_grad()
@@ -67,7 +71,6 @@ def train(epoch, f = None):
             if f is not None:
                 f.write(log)
                 f.write("\n")
-            
 
         #update training loss for each iteration
         writer.add_scalar('Train/loss', loss.item(), n_iter)
@@ -85,6 +88,7 @@ def train(epoch, f = None):
     print('epoch {} training time consumed: {:.2f}s'.format(epoch, finish - start))
     if f is not None:
         f.write('epoch {} training time consumed: {:.2f}s\n'.format(epoch, finish - start))
+
 @torch.no_grad()
 def eval_training(epoch=0, tb=True, f = None):
 
@@ -94,18 +98,19 @@ def eval_training(epoch=0, tb=True, f = None):
     test_loss = 0.0 # cost function error
     correct = 0.0
 
-    for (images, labels) in cifar100_test_loader:
+    for (images, labels, real_labels) in cifar100_test_loader:
 
         if args.gpu:
             images = images.cuda()
             labels = labels.cuda()
-
+            real_labels = real_labels.cuda()
+            
         outputs = net(images)
         loss = loss_function(outputs, labels)
 
         test_loss += loss.item()
         _, preds = outputs.max(1)
-        correct += preds.eq(labels).sum()
+        correct += preds.eq(real_labels).sum()
 
     finish = time.time()
 #     if args.gpu:
@@ -119,7 +124,6 @@ def eval_training(epoch=0, tb=True, f = None):
         finish - start
     ))
     print()
-    
     f.write('Evaluating Network.....\n')
     f.write('Test set: Epoch: {}, Average loss: {:.4f}, Accuracy: {:.4f}, Time consumed:{:.2f}s\n\n'.format(
         epoch,
@@ -127,6 +131,7 @@ def eval_training(epoch=0, tb=True, f = None):
         correct.float() / len(cifar100_test_loader.dataset),
         finish - start
     ))
+
     #add informations to tensorboard
     if tb:
         writer.add_scalar('Test/Average loss', test_loss / len(cifar100_test_loader.dataset), epoch)
@@ -148,7 +153,7 @@ if __name__ == '__main__':
     net = get_network(args)
 
     #data preprocessing:
-    cifar100_training_loader = get_training_dataloader(
+    cifar100_training_loader = get_training_dataloader_LRP(
         settings.CIFAR100_TRAIN_MEAN,
         settings.CIFAR100_TRAIN_STD,
         num_workers=4,
@@ -156,7 +161,7 @@ if __name__ == '__main__':
         shuffle=True
     )
 
-    cifar100_test_loader = get_test_dataloader(
+    cifar100_test_loader = get_test_dataloader_LRP(
         settings.CIFAR100_TRAIN_MEAN,
         settings.CIFAR100_TRAIN_STD,
         num_workers=4,
@@ -164,7 +169,9 @@ if __name__ == '__main__':
         shuffle=True
     )
 
-    loss_function = nn.CrossEntropyLoss()
+    criterion_KLD=nn.KLDivLoss(reduction="batchmean")
+    loss_function = lambda a,b : criterion_KLD(torch.log_softmax(a, dim=1),torch.softmax(b, dim=1))
+
     optimizer = optim.SGD(net.parameters(), lr=args.lr, momentum=0.9, weight_decay=5e-4)
     train_scheduler = optim.lr_scheduler.MultiStepLR(optimizer, milestones=settings.MILESTONES, gamma=0.2) #learning rate decay
     iter_per_epoch = len(cifar100_training_loader)
@@ -183,6 +190,7 @@ if __name__ == '__main__':
     #use tensorboard
     if not os.path.exists(settings.LOG_DIR):
         os.mkdir(settings.LOG_DIR)
+
     #since tensorboard can't overwrite old values
     #so the only way is to create a new tensorboard log
     writer = SummaryWriter(log_dir=os.path.join(
@@ -213,8 +221,6 @@ if __name__ == '__main__':
         if not recent_weights_file:
             raise Exception('no recent weights file were found')
         weights_path = os.path.join(settings.CHECKPOINT_PATH, args.net, recent_folder, recent_weights_file)
-        
-        
         print('loading weights file {} to resume training.....'.format(weights_path))
         net.load_state_dict(torch.load(weights_path))
 

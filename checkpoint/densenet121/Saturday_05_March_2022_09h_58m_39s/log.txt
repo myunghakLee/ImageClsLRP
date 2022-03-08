@@ -1,0 +1,1600 @@
+Training Epoch: 1 [128/50000]	Loss: 4.6059	LR: 0.000000
+Training Epoch: 1 [12928/50000]	Loss: 3.8043	LR: 0.025575
+Training Epoch: 1 [25728/50000]	Loss: 3.6274	LR: 0.051151
+Training Epoch: 1 [38528/50000]	Loss: 3.1302	LR: 0.076726
+epoch 1 training time consumed: 63.91s
+Evaluating Network.....
+Test set: Epoch: 1, Average loss: 0.0255, Accuracy: 0.1830, Time consumed:4.03s
+
+Training Epoch: 2 [128/50000]	Loss: 3.2255	LR: 0.100000
+Training Epoch: 2 [12928/50000]	Loss: 2.6796	LR: 0.100000
+Training Epoch: 2 [25728/50000]	Loss: 2.5628	LR: 0.100000
+Training Epoch: 2 [38528/50000]	Loss: 2.4064	LR: 0.100000
+epoch 2 training time consumed: 63.93s
+Evaluating Network.....
+Test set: Epoch: 2, Average loss: 0.0180, Accuracy: 0.3607, Time consumed:4.03s
+
+Training Epoch: 3 [128/50000]	Loss: 2.0397	LR: 0.100000
+Training Epoch: 3 [12928/50000]	Loss: 2.4074	LR: 0.100000
+Training Epoch: 3 [25728/50000]	Loss: 1.9629	LR: 0.100000
+Training Epoch: 3 [38528/50000]	Loss: 1.8782	LR: 0.100000
+epoch 3 training time consumed: 63.17s
+Evaluating Network.....
+Test set: Epoch: 3, Average loss: 0.0157, Accuracy: 0.4194, Time consumed:4.12s
+
+Training Epoch: 4 [128/50000]	Loss: 1.6536	LR: 0.100000
+Training Epoch: 4 [12928/50000]	Loss: 1.6827	LR: 0.100000
+Training Epoch: 4 [25728/50000]	Loss: 1.7429	LR: 0.100000
+Training Epoch: 4 [38528/50000]	Loss: 1.8846	LR: 0.100000
+epoch 4 training time consumed: 63.89s
+Evaluating Network.....
+Test set: Epoch: 4, Average loss: 0.0160, Accuracy: 0.4350, Time consumed:4.00s
+
+Training Epoch: 5 [128/50000]	Loss: 1.8331	LR: 0.100000
+Training Epoch: 5 [12928/50000]	Loss: 1.5432	LR: 0.100000
+Training Epoch: 5 [25728/50000]	Loss: 1.7596	LR: 0.100000
+Training Epoch: 5 [38528/50000]	Loss: 1.6308	LR: 0.100000
+epoch 5 training time consumed: 63.67s
+Evaluating Network.....
+Test set: Epoch: 5, Average loss: 0.0134, Accuracy: 0.4945, Time consumed:4.04s
+
+Training Epoch: 6 [128/50000]	Loss: 1.3236	LR: 0.100000
+Training Epoch: 6 [12928/50000]	Loss: 1.3385	LR: 0.100000
+Training Epoch: 6 [25728/50000]	Loss: 1.5010	LR: 0.100000
+Training Epoch: 6 [38528/50000]	Loss: 1.7020	LR: 0.100000
+epoch 6 training time consumed: 63.86s
+Evaluating Network.....
+Test set: Epoch: 6, Average loss: 0.0126, Accuracy: 0.5225, Time consumed:4.08s
+
+Training Epoch: 7 [128/50000]	Loss: 1.1235	LR: 0.100000
+Training Epoch: 7 [12928/50000]	Loss: 1.3001	LR: 0.100000
+Training Epoch: 7 [25728/50000]	Loss: 1.4153	LR: 0.100000
+Training Epoch: 7 [38528/50000]	Loss: 1.3140	LR: 0.100000
+epoch 7 training time consumed: 63.65s
+Evaluating Network.....
+Test set: Epoch: 7, Average loss: 0.0118, Accuracy: 0.5493, Time consumed:3.98s
+
+Training Epoch: 8 [128/50000]	Loss: 1.1946	LR: 0.100000
+Training Epoch: 8 [12928/50000]	Loss: 1.4684	LR: 0.100000
+Training Epoch: 8 [25728/50000]	Loss: 1.5621	LR: 0.100000
+Training Epoch: 8 [38528/50000]	Loss: 1.1547	LR: 0.100000
+epoch 8 training time consumed: 63.88s
+Evaluating Network.....
+Test set: Epoch: 8, Average loss: 0.0121, Accuracy: 0.5432, Time consumed:3.98s
+
+Training Epoch: 9 [128/50000]	Loss: 1.2308	LR: 0.100000
+Training Epoch: 9 [12928/50000]	Loss: 0.9708	LR: 0.100000
+Training Epoch: 9 [25728/50000]	Loss: 1.3592	LR: 0.100000
+Training Epoch: 9 [38528/50000]	Loss: 1.1819	LR: 0.100000
+epoch 9 training time consumed: 63.48s
+Evaluating Network.....
+Test set: Epoch: 9, Average loss: 0.0118, Accuracy: 0.5550, Time consumed:4.09s
+
+Training Epoch: 10 [128/50000]	Loss: 1.0838	LR: 0.100000
+Training Epoch: 10 [12928/50000]	Loss: 1.0216	LR: 0.100000
+Training Epoch: 10 [25728/50000]	Loss: 1.1085	LR: 0.100000
+Training Epoch: 10 [38528/50000]	Loss: 1.2832	LR: 0.100000
+epoch 10 training time consumed: 63.45s
+Evaluating Network.....
+Test set: Epoch: 10, Average loss: 0.0120, Accuracy: 0.5476, Time consumed:3.99s
+
+Training Epoch: 11 [128/50000]	Loss: 1.0644	LR: 0.100000
+Training Epoch: 11 [12928/50000]	Loss: 1.1343	LR: 0.100000
+Training Epoch: 11 [25728/50000]	Loss: 1.1528	LR: 0.100000
+Training Epoch: 11 [38528/50000]	Loss: 1.0197	LR: 0.100000
+epoch 11 training time consumed: 63.42s
+Evaluating Network.....
+Test set: Epoch: 11, Average loss: 0.0116, Accuracy: 0.5642, Time consumed:4.05s
+
+Training Epoch: 12 [128/50000]	Loss: 1.0132	LR: 0.100000
+Training Epoch: 12 [12928/50000]	Loss: 0.9045	LR: 0.100000
+Training Epoch: 12 [25728/50000]	Loss: 1.0607	LR: 0.100000
+Training Epoch: 12 [38528/50000]	Loss: 1.3338	LR: 0.100000
+epoch 12 training time consumed: 63.59s
+Evaluating Network.....
+Test set: Epoch: 12, Average loss: 0.0115, Accuracy: 0.5684, Time consumed:4.08s
+
+Training Epoch: 13 [128/50000]	Loss: 1.1756	LR: 0.100000
+Training Epoch: 13 [12928/50000]	Loss: 1.0066	LR: 0.100000
+Training Epoch: 13 [25728/50000]	Loss: 0.9702	LR: 0.100000
+Training Epoch: 13 [38528/50000]	Loss: 1.2405	LR: 0.100000
+epoch 13 training time consumed: 63.98s
+Evaluating Network.....
+Test set: Epoch: 13, Average loss: 0.0115, Accuracy: 0.5723, Time consumed:4.03s
+
+Training Epoch: 14 [128/50000]	Loss: 0.7381	LR: 0.100000
+Training Epoch: 14 [12928/50000]	Loss: 1.0068	LR: 0.100000
+Training Epoch: 14 [25728/50000]	Loss: 0.9299	LR: 0.100000
+Training Epoch: 14 [38528/50000]	Loss: 1.2492	LR: 0.100000
+epoch 14 training time consumed: 64.16s
+Evaluating Network.....
+Test set: Epoch: 14, Average loss: 0.0119, Accuracy: 0.5583, Time consumed:3.98s
+
+Training Epoch: 15 [128/50000]	Loss: 0.7709	LR: 0.100000
+Training Epoch: 15 [12928/50000]	Loss: 1.0845	LR: 0.100000
+Training Epoch: 15 [25728/50000]	Loss: 1.1047	LR: 0.100000
+Training Epoch: 15 [38528/50000]	Loss: 1.0481	LR: 0.100000
+epoch 15 training time consumed: 63.97s
+Evaluating Network.....
+Test set: Epoch: 15, Average loss: 0.0106, Accuracy: 0.5976, Time consumed:4.00s
+
+Training Epoch: 16 [128/50000]	Loss: 0.9060	LR: 0.100000
+Training Epoch: 16 [12928/50000]	Loss: 0.9582	LR: 0.100000
+Training Epoch: 16 [25728/50000]	Loss: 1.0883	LR: 0.100000
+Training Epoch: 16 [38528/50000]	Loss: 1.1352	LR: 0.100000
+epoch 16 training time consumed: 64.37s
+Evaluating Network.....
+Test set: Epoch: 16, Average loss: 0.0112, Accuracy: 0.5785, Time consumed:4.02s
+
+Training Epoch: 17 [128/50000]	Loss: 0.9812	LR: 0.100000
+Training Epoch: 17 [12928/50000]	Loss: 0.9157	LR: 0.100000
+Training Epoch: 17 [25728/50000]	Loss: 0.8797	LR: 0.100000
+Training Epoch: 17 [38528/50000]	Loss: 0.9276	LR: 0.100000
+epoch 17 training time consumed: 63.67s
+Evaluating Network.....
+Test set: Epoch: 17, Average loss: 0.0114, Accuracy: 0.5718, Time consumed:4.09s
+
+Training Epoch: 18 [128/50000]	Loss: 0.9492	LR: 0.100000
+Training Epoch: 18 [12928/50000]	Loss: 0.9215	LR: 0.100000
+Training Epoch: 18 [25728/50000]	Loss: 1.0493	LR: 0.100000
+Training Epoch: 18 [38528/50000]	Loss: 1.0138	LR: 0.100000
+epoch 18 training time consumed: 63.46s
+Evaluating Network.....
+Test set: Epoch: 18, Average loss: 0.0112, Accuracy: 0.5798, Time consumed:4.01s
+
+Training Epoch: 19 [128/50000]	Loss: 0.7082	LR: 0.100000
+Training Epoch: 19 [12928/50000]	Loss: 0.8953	LR: 0.100000
+Training Epoch: 19 [25728/50000]	Loss: 0.8594	LR: 0.100000
+Training Epoch: 19 [38528/50000]	Loss: 0.9489	LR: 0.100000
+epoch 19 training time consumed: 63.76s
+Evaluating Network.....
+Test set: Epoch: 19, Average loss: 0.0118, Accuracy: 0.5688, Time consumed:4.05s
+
+Training Epoch: 20 [128/50000]	Loss: 0.6670	LR: 0.100000
+Training Epoch: 20 [12928/50000]	Loss: 0.9626	LR: 0.100000
+Training Epoch: 20 [25728/50000]	Loss: 0.8348	LR: 0.100000
+Training Epoch: 20 [38528/50000]	Loss: 0.9060	LR: 0.100000
+epoch 20 training time consumed: 63.63s
+Evaluating Network.....
+Test set: Epoch: 20, Average loss: 0.0126, Accuracy: 0.5596, Time consumed:4.02s
+
+Training Epoch: 21 [128/50000]	Loss: 0.8362	LR: 0.100000
+Training Epoch: 21 [12928/50000]	Loss: 0.8441	LR: 0.100000
+Training Epoch: 21 [25728/50000]	Loss: 1.2673	LR: 0.100000
+Training Epoch: 21 [38528/50000]	Loss: 0.9329	LR: 0.100000
+epoch 21 training time consumed: 63.71s
+Evaluating Network.....
+Test set: Epoch: 21, Average loss: 0.0141, Accuracy: 0.5193, Time consumed:4.06s
+
+Training Epoch: 22 [128/50000]	Loss: 0.9056	LR: 0.100000
+Training Epoch: 22 [12928/50000]	Loss: 0.6917	LR: 0.100000
+Training Epoch: 22 [25728/50000]	Loss: 0.9243	LR: 0.100000
+Training Epoch: 22 [38528/50000]	Loss: 0.9691	LR: 0.100000
+epoch 22 training time consumed: 64.06s
+Evaluating Network.....
+Test set: Epoch: 22, Average loss: 0.0114, Accuracy: 0.5834, Time consumed:4.00s
+
+Training Epoch: 23 [128/50000]	Loss: 0.7228	LR: 0.100000
+Training Epoch: 23 [12928/50000]	Loss: 0.8154	LR: 0.100000
+Training Epoch: 23 [25728/50000]	Loss: 0.8469	LR: 0.100000
+Training Epoch: 23 [38528/50000]	Loss: 1.2058	LR: 0.100000
+epoch 23 training time consumed: 63.91s
+Evaluating Network.....
+Test set: Epoch: 23, Average loss: 0.0117, Accuracy: 0.5825, Time consumed:4.08s
+
+Training Epoch: 24 [128/50000]	Loss: 0.7357	LR: 0.100000
+Training Epoch: 24 [12928/50000]	Loss: 0.8381	LR: 0.100000
+Training Epoch: 24 [25728/50000]	Loss: 0.9490	LR: 0.100000
+Training Epoch: 24 [38528/50000]	Loss: 0.9664	LR: 0.100000
+epoch 24 training time consumed: 64.64s
+Evaluating Network.....
+Test set: Epoch: 24, Average loss: 0.0115, Accuracy: 0.5822, Time consumed:3.99s
+
+Training Epoch: 25 [128/50000]	Loss: 0.9377	LR: 0.100000
+Training Epoch: 25 [12928/50000]	Loss: 0.8027	LR: 0.100000
+Training Epoch: 25 [25728/50000]	Loss: 0.8138	LR: 0.100000
+Training Epoch: 25 [38528/50000]	Loss: 0.8300	LR: 0.100000
+epoch 25 training time consumed: 63.89s
+Evaluating Network.....
+Test set: Epoch: 25, Average loss: 0.0117, Accuracy: 0.5831, Time consumed:4.11s
+
+Training Epoch: 26 [128/50000]	Loss: 0.7639	LR: 0.100000
+Training Epoch: 26 [12928/50000]	Loss: 0.8408	LR: 0.100000
+Training Epoch: 26 [25728/50000]	Loss: 1.0011	LR: 0.100000
+Training Epoch: 26 [38528/50000]	Loss: 0.9010	LR: 0.100000
+epoch 26 training time consumed: 64.23s
+Evaluating Network.....
+Test set: Epoch: 26, Average loss: 0.0119, Accuracy: 0.5678, Time consumed:4.09s
+
+Training Epoch: 27 [128/50000]	Loss: 0.8025	LR: 0.100000
+Training Epoch: 27 [12928/50000]	Loss: 0.7517	LR: 0.100000
+Training Epoch: 27 [25728/50000]	Loss: 0.9864	LR: 0.100000
+Training Epoch: 27 [38528/50000]	Loss: 0.8523	LR: 0.100000
+epoch 27 training time consumed: 64.11s
+Evaluating Network.....
+Test set: Epoch: 27, Average loss: 0.0114, Accuracy: 0.5822, Time consumed:3.99s
+
+Training Epoch: 28 [128/50000]	Loss: 0.7288	LR: 0.100000
+Training Epoch: 28 [12928/50000]	Loss: 0.5240	LR: 0.100000
+Training Epoch: 28 [25728/50000]	Loss: 1.0065	LR: 0.100000
+Training Epoch: 28 [38528/50000]	Loss: 0.7558	LR: 0.100000
+epoch 28 training time consumed: 63.56s
+Evaluating Network.....
+Test set: Epoch: 28, Average loss: 0.0122, Accuracy: 0.5670, Time consumed:4.02s
+
+Training Epoch: 29 [128/50000]	Loss: 0.8269	LR: 0.100000
+Training Epoch: 29 [12928/50000]	Loss: 0.7182	LR: 0.100000
+Training Epoch: 29 [25728/50000]	Loss: 0.8737	LR: 0.100000
+Training Epoch: 29 [38528/50000]	Loss: 0.9209	LR: 0.100000
+epoch 29 training time consumed: 63.44s
+Evaluating Network.....
+Test set: Epoch: 29, Average loss: 0.0131, Accuracy: 0.5489, Time consumed:4.05s
+
+Training Epoch: 30 [128/50000]	Loss: 0.7213	LR: 0.100000
+Training Epoch: 30 [12928/50000]	Loss: 0.7106	LR: 0.100000
+Training Epoch: 30 [25728/50000]	Loss: 0.7411	LR: 0.100000
+Training Epoch: 30 [38528/50000]	Loss: 0.8807	LR: 0.100000
+epoch 30 training time consumed: 64.07s
+Evaluating Network.....
+Test set: Epoch: 30, Average loss: 0.0113, Accuracy: 0.5995, Time consumed:4.05s
+
+Training Epoch: 31 [128/50000]	Loss: 0.5446	LR: 0.100000
+Training Epoch: 31 [12928/50000]	Loss: 0.7065	LR: 0.100000
+Training Epoch: 31 [25728/50000]	Loss: 0.8966	LR: 0.100000
+Training Epoch: 31 [38528/50000]	Loss: 0.8839	LR: 0.100000
+epoch 31 training time consumed: 63.86s
+Evaluating Network.....
+Test set: Epoch: 31, Average loss: 0.0123, Accuracy: 0.5637, Time consumed:4.06s
+
+Training Epoch: 32 [128/50000]	Loss: 0.6421	LR: 0.100000
+Training Epoch: 32 [12928/50000]	Loss: 0.6504	LR: 0.100000
+Training Epoch: 32 [25728/50000]	Loss: 0.8292	LR: 0.100000
+Training Epoch: 32 [38528/50000]	Loss: 0.6095	LR: 0.100000
+epoch 32 training time consumed: 63.87s
+Evaluating Network.....
+Test set: Epoch: 32, Average loss: 0.0118, Accuracy: 0.5822, Time consumed:4.04s
+
+Training Epoch: 33 [128/50000]	Loss: 0.6699	LR: 0.100000
+Training Epoch: 33 [12928/50000]	Loss: 0.6723	LR: 0.100000
+Training Epoch: 33 [25728/50000]	Loss: 0.9942	LR: 0.100000
+Training Epoch: 33 [38528/50000]	Loss: 1.1056	LR: 0.100000
+epoch 33 training time consumed: 63.75s
+Evaluating Network.....
+Test set: Epoch: 33, Average loss: 0.0125, Accuracy: 0.5688, Time consumed:4.06s
+
+Training Epoch: 34 [128/50000]	Loss: 0.6597	LR: 0.100000
+Training Epoch: 34 [12928/50000]	Loss: 0.6457	LR: 0.100000
+Training Epoch: 34 [25728/50000]	Loss: 0.7629	LR: 0.100000
+Training Epoch: 34 [38528/50000]	Loss: 0.7205	LR: 0.100000
+epoch 34 training time consumed: 64.21s
+Evaluating Network.....
+Test set: Epoch: 34, Average loss: 0.0117, Accuracy: 0.5780, Time consumed:3.99s
+
+Training Epoch: 35 [128/50000]	Loss: 0.5058	LR: 0.100000
+Training Epoch: 35 [12928/50000]	Loss: 0.5673	LR: 0.100000
+Training Epoch: 35 [25728/50000]	Loss: 0.8125	LR: 0.100000
+Training Epoch: 35 [38528/50000]	Loss: 0.9393	LR: 0.100000
+epoch 35 training time consumed: 64.09s
+Evaluating Network.....
+Test set: Epoch: 35, Average loss: 0.0120, Accuracy: 0.5760, Time consumed:4.09s
+
+Training Epoch: 36 [128/50000]	Loss: 0.7733	LR: 0.100000
+Training Epoch: 36 [12928/50000]	Loss: 0.9010	LR: 0.100000
+Training Epoch: 36 [25728/50000]	Loss: 0.9703	LR: 0.100000
+Training Epoch: 36 [38528/50000]	Loss: 0.8819	LR: 0.100000
+epoch 36 training time consumed: 63.83s
+Evaluating Network.....
+Test set: Epoch: 36, Average loss: 0.0109, Accuracy: 0.6044, Time consumed:4.09s
+
+Training Epoch: 37 [128/50000]	Loss: 0.6039	LR: 0.100000
+Training Epoch: 37 [12928/50000]	Loss: 0.6834	LR: 0.100000
+Training Epoch: 37 [25728/50000]	Loss: 0.5957	LR: 0.100000
+Training Epoch: 37 [38528/50000]	Loss: 1.0363	LR: 0.100000
+epoch 37 training time consumed: 63.85s
+Evaluating Network.....
+Test set: Epoch: 37, Average loss: 0.0127, Accuracy: 0.5653, Time consumed:4.07s
+
+Training Epoch: 38 [128/50000]	Loss: 0.6359	LR: 0.100000
+Training Epoch: 38 [12928/50000]	Loss: 0.7024	LR: 0.100000
+Training Epoch: 38 [25728/50000]	Loss: 0.8397	LR: 0.100000
+Training Epoch: 38 [38528/50000]	Loss: 0.9005	LR: 0.100000
+epoch 38 training time consumed: 63.65s
+Evaluating Network.....
+Test set: Epoch: 38, Average loss: 0.0137, Accuracy: 0.5514, Time consumed:4.05s
+
+Training Epoch: 39 [128/50000]	Loss: 0.7814	LR: 0.100000
+Training Epoch: 39 [12928/50000]	Loss: 0.6037	LR: 0.100000
+Training Epoch: 39 [25728/50000]	Loss: 0.8010	LR: 0.100000
+Training Epoch: 39 [38528/50000]	Loss: 0.9626	LR: 0.100000
+epoch 39 training time consumed: 63.82s
+Evaluating Network.....
+Test set: Epoch: 39, Average loss: 0.0111, Accuracy: 0.6030, Time consumed:4.07s
+
+Training Epoch: 40 [128/50000]	Loss: 0.4875	LR: 0.100000
+Training Epoch: 40 [12928/50000]	Loss: 0.7229	LR: 0.100000
+Training Epoch: 40 [25728/50000]	Loss: 0.8499	LR: 0.100000
+Training Epoch: 40 [38528/50000]	Loss: 0.8182	LR: 0.100000
+epoch 40 training time consumed: 63.77s
+Evaluating Network.....
+Test set: Epoch: 40, Average loss: 0.0129, Accuracy: 0.5618, Time consumed:4.08s
+
+Training Epoch: 41 [128/50000]	Loss: 0.6257	LR: 0.100000
+Training Epoch: 41 [12928/50000]	Loss: 0.8716	LR: 0.100000
+Training Epoch: 41 [25728/50000]	Loss: 0.7823	LR: 0.100000
+Training Epoch: 41 [38528/50000]	Loss: 1.0145	LR: 0.100000
+epoch 41 training time consumed: 63.96s
+Evaluating Network.....
+Test set: Epoch: 41, Average loss: 0.0109, Accuracy: 0.6082, Time consumed:4.00s
+
+Training Epoch: 42 [128/50000]	Loss: 0.4729	LR: 0.100000
+Training Epoch: 42 [12928/50000]	Loss: 0.4325	LR: 0.100000
+Training Epoch: 42 [25728/50000]	Loss: 0.7496	LR: 0.100000
+Training Epoch: 42 [38528/50000]	Loss: 0.9352	LR: 0.100000
+epoch 42 training time consumed: 63.70s
+Evaluating Network.....
+Test set: Epoch: 42, Average loss: 0.0116, Accuracy: 0.5906, Time consumed:4.07s
+
+Training Epoch: 43 [128/50000]	Loss: 0.6715	LR: 0.100000
+Training Epoch: 43 [12928/50000]	Loss: 0.7975	LR: 0.100000
+Training Epoch: 43 [25728/50000]	Loss: 0.7252	LR: 0.100000
+Training Epoch: 43 [38528/50000]	Loss: 0.7510	LR: 0.100000
+epoch 43 training time consumed: 63.55s
+Evaluating Network.....
+Test set: Epoch: 43, Average loss: 0.0115, Accuracy: 0.5874, Time consumed:4.00s
+
+Training Epoch: 44 [128/50000]	Loss: 0.7062	LR: 0.100000
+Training Epoch: 44 [12928/50000]	Loss: 0.4976	LR: 0.100000
+Training Epoch: 44 [25728/50000]	Loss: 0.8441	LR: 0.100000
+Training Epoch: 44 [38528/50000]	Loss: 0.7958	LR: 0.100000
+epoch 44 training time consumed: 63.74s
+Evaluating Network.....
+Test set: Epoch: 44, Average loss: 0.0124, Accuracy: 0.5771, Time consumed:4.06s
+
+Training Epoch: 45 [128/50000]	Loss: 0.6162	LR: 0.100000
+Training Epoch: 45 [12928/50000]	Loss: 0.6644	LR: 0.100000
+Training Epoch: 45 [25728/50000]	Loss: 0.7488	LR: 0.100000
+Training Epoch: 45 [38528/50000]	Loss: 0.7640	LR: 0.100000
+epoch 45 training time consumed: 64.02s
+Evaluating Network.....
+Test set: Epoch: 45, Average loss: 0.0108, Accuracy: 0.6066, Time consumed:4.07s
+
+Training Epoch: 46 [128/50000]	Loss: 0.5745	LR: 0.100000
+Training Epoch: 46 [12928/50000]	Loss: 0.6526	LR: 0.100000
+Training Epoch: 46 [25728/50000]	Loss: 0.7537	LR: 0.100000
+Training Epoch: 46 [38528/50000]	Loss: 0.5573	LR: 0.100000
+epoch 46 training time consumed: 63.87s
+Evaluating Network.....
+Test set: Epoch: 46, Average loss: 0.0107, Accuracy: 0.6145, Time consumed:4.12s
+
+Training Epoch: 47 [128/50000]	Loss: 0.5856	LR: 0.100000
+Training Epoch: 47 [12928/50000]	Loss: 0.6540	LR: 0.100000
+Training Epoch: 47 [25728/50000]	Loss: 0.8146	LR: 0.100000
+Training Epoch: 47 [38528/50000]	Loss: 0.7584	LR: 0.100000
+epoch 47 training time consumed: 64.02s
+Evaluating Network.....
+Test set: Epoch: 47, Average loss: 0.0134, Accuracy: 0.5467, Time consumed:4.07s
+
+Training Epoch: 48 [128/50000]	Loss: 0.5722	LR: 0.100000
+Training Epoch: 48 [12928/50000]	Loss: 0.7013	LR: 0.100000
+Training Epoch: 48 [25728/50000]	Loss: 0.5701	LR: 0.100000
+Training Epoch: 48 [38528/50000]	Loss: 0.9521	LR: 0.100000
+epoch 48 training time consumed: 63.76s
+Evaluating Network.....
+Test set: Epoch: 48, Average loss: 0.0123, Accuracy: 0.5727, Time consumed:3.98s
+
+Training Epoch: 49 [128/50000]	Loss: 0.6583	LR: 0.100000
+Training Epoch: 49 [12928/50000]	Loss: 0.4551	LR: 0.100000
+Training Epoch: 49 [25728/50000]	Loss: 0.7046	LR: 0.100000
+Training Epoch: 49 [38528/50000]	Loss: 0.9985	LR: 0.100000
+epoch 49 training time consumed: 63.97s
+Evaluating Network.....
+Test set: Epoch: 49, Average loss: 0.0116, Accuracy: 0.5833, Time consumed:4.08s
+
+Training Epoch: 50 [128/50000]	Loss: 0.6386	LR: 0.100000
+Training Epoch: 50 [12928/50000]	Loss: 0.5235	LR: 0.100000
+Training Epoch: 50 [25728/50000]	Loss: 0.6758	LR: 0.100000
+Training Epoch: 50 [38528/50000]	Loss: 0.7525	LR: 0.100000
+epoch 50 training time consumed: 63.91s
+Evaluating Network.....
+Test set: Epoch: 50, Average loss: 0.0113, Accuracy: 0.5941, Time consumed:4.07s
+
+Training Epoch: 51 [128/50000]	Loss: 0.8040	LR: 0.100000
+Training Epoch: 51 [12928/50000]	Loss: 0.6773	LR: 0.100000
+Training Epoch: 51 [25728/50000]	Loss: 0.7604	LR: 0.100000
+Training Epoch: 51 [38528/50000]	Loss: 1.0772	LR: 0.100000
+epoch 51 training time consumed: 63.96s
+Evaluating Network.....
+Test set: Epoch: 51, Average loss: 0.0112, Accuracy: 0.5978, Time consumed:4.06s
+
+Training Epoch: 52 [128/50000]	Loss: 0.5646	LR: 0.100000
+Training Epoch: 52 [12928/50000]	Loss: 0.5377	LR: 0.100000
+Training Epoch: 52 [25728/50000]	Loss: 0.7065	LR: 0.100000
+Training Epoch: 52 [38528/50000]	Loss: 0.7849	LR: 0.100000
+epoch 52 training time consumed: 63.75s
+Evaluating Network.....
+Test set: Epoch: 52, Average loss: 0.0125, Accuracy: 0.5711, Time consumed:4.06s
+
+Training Epoch: 53 [128/50000]	Loss: 0.6641	LR: 0.100000
+Training Epoch: 53 [12928/50000]	Loss: 0.7720	LR: 0.100000
+Training Epoch: 53 [25728/50000]	Loss: 0.6311	LR: 0.100000
+Training Epoch: 53 [38528/50000]	Loss: 0.8000	LR: 0.100000
+epoch 53 training time consumed: 63.94s
+Evaluating Network.....
+Test set: Epoch: 53, Average loss: 0.0121, Accuracy: 0.5872, Time consumed:4.48s
+
+Training Epoch: 54 [128/50000]	Loss: 0.5086	LR: 0.100000
+Training Epoch: 54 [12928/50000]	Loss: 0.5911	LR: 0.100000
+Training Epoch: 54 [25728/50000]	Loss: 0.8043	LR: 0.100000
+Training Epoch: 54 [38528/50000]	Loss: 0.8175	LR: 0.100000
+epoch 54 training time consumed: 63.92s
+Evaluating Network.....
+Test set: Epoch: 54, Average loss: 0.0125, Accuracy: 0.5695, Time consumed:4.05s
+
+Training Epoch: 55 [128/50000]	Loss: 0.5061	LR: 0.100000
+Training Epoch: 55 [12928/50000]	Loss: 0.5623	LR: 0.100000
+Training Epoch: 55 [25728/50000]	Loss: 0.8569	LR: 0.100000
+Training Epoch: 55 [38528/50000]	Loss: 0.6974	LR: 0.100000
+epoch 55 training time consumed: 63.83s
+Evaluating Network.....
+Test set: Epoch: 55, Average loss: 0.0116, Accuracy: 0.5869, Time consumed:4.06s
+
+Training Epoch: 56 [128/50000]	Loss: 0.5623	LR: 0.100000
+Training Epoch: 56 [12928/50000]	Loss: 0.5710	LR: 0.100000
+Training Epoch: 56 [25728/50000]	Loss: 0.7682	LR: 0.100000
+Training Epoch: 56 [38528/50000]	Loss: 0.8467	LR: 0.100000
+epoch 56 training time consumed: 64.32s
+Evaluating Network.....
+Test set: Epoch: 56, Average loss: 0.0128, Accuracy: 0.5655, Time consumed:4.10s
+
+Training Epoch: 57 [128/50000]	Loss: 0.5205	LR: 0.100000
+Training Epoch: 57 [12928/50000]	Loss: 0.7006	LR: 0.100000
+Training Epoch: 57 [25728/50000]	Loss: 0.9692	LR: 0.100000
+Training Epoch: 57 [38528/50000]	Loss: 0.7785	LR: 0.100000
+epoch 57 training time consumed: 63.84s
+Evaluating Network.....
+Test set: Epoch: 57, Average loss: 0.0121, Accuracy: 0.5764, Time consumed:4.04s
+
+Training Epoch: 58 [128/50000]	Loss: 0.6158	LR: 0.100000
+Training Epoch: 58 [12928/50000]	Loss: 0.4267	LR: 0.100000
+Training Epoch: 58 [25728/50000]	Loss: 0.6597	LR: 0.100000
+Training Epoch: 58 [38528/50000]	Loss: 0.6801	LR: 0.100000
+epoch 58 training time consumed: 63.90s
+Evaluating Network.....
+Test set: Epoch: 58, Average loss: 0.0121, Accuracy: 0.5862, Time consumed:4.01s
+
+Training Epoch: 59 [128/50000]	Loss: 0.8093	LR: 0.100000
+Training Epoch: 59 [12928/50000]	Loss: 0.6240	LR: 0.100000
+Training Epoch: 59 [25728/50000]	Loss: 0.7397	LR: 0.100000
+Training Epoch: 59 [38528/50000]	Loss: 0.7286	LR: 0.100000
+epoch 59 training time consumed: 63.98s
+Evaluating Network.....
+Test set: Epoch: 59, Average loss: 0.0118, Accuracy: 0.5867, Time consumed:4.01s
+
+Training Epoch: 60 [128/50000]	Loss: 0.6172	LR: 0.020000
+Training Epoch: 60 [12928/50000]	Loss: 0.2916	LR: 0.020000
+Training Epoch: 60 [25728/50000]	Loss: 0.2246	LR: 0.020000
+Training Epoch: 60 [38528/50000]	Loss: 0.2674	LR: 0.020000
+epoch 60 training time consumed: 64.20s
+Evaluating Network.....
+Test set: Epoch: 60, Average loss: 0.0072, Accuracy: 0.7294, Time consumed:4.12s
+
+Training Epoch: 61 [128/50000]	Loss: 0.1583	LR: 0.020000
+Training Epoch: 61 [12928/50000]	Loss: 0.1372	LR: 0.020000
+Training Epoch: 61 [25728/50000]	Loss: 0.0608	LR: 0.020000
+Training Epoch: 61 [38528/50000]	Loss: 0.1203	LR: 0.020000
+epoch 61 training time consumed: 63.48s
+Evaluating Network.....
+Test set: Epoch: 61, Average loss: 0.0072, Accuracy: 0.7327, Time consumed:4.09s
+
+Training Epoch: 62 [128/50000]	Loss: 0.0848	LR: 0.020000
+Training Epoch: 62 [12928/50000]	Loss: 0.0882	LR: 0.020000
+Training Epoch: 62 [25728/50000]	Loss: 0.0660	LR: 0.020000
+Training Epoch: 62 [38528/50000]	Loss: 0.0308	LR: 0.020000
+epoch 62 training time consumed: 63.72s
+Evaluating Network.....
+Test set: Epoch: 62, Average loss: 0.0075, Accuracy: 0.7360, Time consumed:4.07s
+
+Training Epoch: 63 [128/50000]	Loss: 0.0346	LR: 0.020000
+Training Epoch: 63 [12928/50000]	Loss: 0.0421	LR: 0.020000
+Training Epoch: 63 [25728/50000]	Loss: 0.0239	LR: 0.020000
+Training Epoch: 63 [38528/50000]	Loss: 0.0295	LR: 0.020000
+epoch 63 training time consumed: 63.85s
+Evaluating Network.....
+Test set: Epoch: 63, Average loss: 0.0075, Accuracy: 0.7330, Time consumed:3.98s
+
+Training Epoch: 64 [128/50000]	Loss: 0.0172	LR: 0.020000
+Training Epoch: 64 [12928/50000]	Loss: 0.0248	LR: 0.020000
+Training Epoch: 64 [25728/50000]	Loss: 0.0195	LR: 0.020000
+Training Epoch: 64 [38528/50000]	Loss: 0.0227	LR: 0.020000
+epoch 64 training time consumed: 64.16s
+Evaluating Network.....
+Test set: Epoch: 64, Average loss: 0.0075, Accuracy: 0.7375, Time consumed:4.00s
+
+Training Epoch: 65 [128/50000]	Loss: 0.0220	LR: 0.020000
+Training Epoch: 65 [12928/50000]	Loss: 0.0176	LR: 0.020000
+Training Epoch: 65 [25728/50000]	Loss: 0.0183	LR: 0.020000
+Training Epoch: 65 [38528/50000]	Loss: 0.0210	LR: 0.020000
+epoch 65 training time consumed: 63.48s
+Evaluating Network.....
+Test set: Epoch: 65, Average loss: 0.0075, Accuracy: 0.7325, Time consumed:4.05s
+
+Training Epoch: 66 [128/50000]	Loss: 0.0219	LR: 0.020000
+Training Epoch: 66 [12928/50000]	Loss: 0.0153	LR: 0.020000
+Training Epoch: 66 [25728/50000]	Loss: 0.0198	LR: 0.020000
+Training Epoch: 66 [38528/50000]	Loss: 0.0168	LR: 0.020000
+epoch 66 training time consumed: 63.57s
+Evaluating Network.....
+Test set: Epoch: 66, Average loss: 0.0075, Accuracy: 0.7355, Time consumed:3.98s
+
+Training Epoch: 67 [128/50000]	Loss: 0.0136	LR: 0.020000
+Training Epoch: 67 [12928/50000]	Loss: 0.0162	LR: 0.020000
+Training Epoch: 67 [25728/50000]	Loss: 0.0192	LR: 0.020000
+Training Epoch: 67 [38528/50000]	Loss: 0.0148	LR: 0.020000
+epoch 67 training time consumed: 63.30s
+Evaluating Network.....
+Test set: Epoch: 67, Average loss: 0.0076, Accuracy: 0.7328, Time consumed:4.01s
+
+Training Epoch: 68 [128/50000]	Loss: 0.0181	LR: 0.020000
+Training Epoch: 68 [12928/50000]	Loss: 0.0146	LR: 0.020000
+Training Epoch: 68 [25728/50000]	Loss: 0.0197	LR: 0.020000
+Training Epoch: 68 [38528/50000]	Loss: 0.0249	LR: 0.020000
+epoch 68 training time consumed: 63.10s
+Evaluating Network.....
+Test set: Epoch: 68, Average loss: 0.0076, Accuracy: 0.7319, Time consumed:3.99s
+
+Training Epoch: 69 [128/50000]	Loss: 0.0093	LR: 0.020000
+Training Epoch: 69 [12928/50000]	Loss: 0.0155	LR: 0.020000
+Training Epoch: 69 [25728/50000]	Loss: 0.0311	LR: 0.020000
+Training Epoch: 69 [38528/50000]	Loss: 0.0173	LR: 0.020000
+epoch 69 training time consumed: 63.01s
+Evaluating Network.....
+Test set: Epoch: 69, Average loss: 0.0076, Accuracy: 0.7298, Time consumed:4.06s
+
+Training Epoch: 70 [128/50000]	Loss: 0.0121	LR: 0.020000
+Training Epoch: 70 [12928/50000]	Loss: 0.0134	LR: 0.020000
+Training Epoch: 70 [25728/50000]	Loss: 0.0167	LR: 0.020000
+Training Epoch: 70 [38528/50000]	Loss: 0.0141	LR: 0.020000
+epoch 70 training time consumed: 63.34s
+Evaluating Network.....
+Test set: Epoch: 70, Average loss: 0.0076, Accuracy: 0.7306, Time consumed:4.05s
+
+Training Epoch: 71 [128/50000]	Loss: 0.0119	LR: 0.020000
+Training Epoch: 71 [12928/50000]	Loss: 0.0107	LR: 0.020000
+Training Epoch: 71 [25728/50000]	Loss: 0.0151	LR: 0.020000
+Training Epoch: 71 [38528/50000]	Loss: 0.0265	LR: 0.020000
+epoch 71 training time consumed: 63.09s
+Evaluating Network.....
+Test set: Epoch: 71, Average loss: 0.0077, Accuracy: 0.7320, Time consumed:4.06s
+
+Training Epoch: 72 [128/50000]	Loss: 0.0106	LR: 0.020000
+Training Epoch: 72 [12928/50000]	Loss: 0.0203	LR: 0.020000
+Training Epoch: 72 [25728/50000]	Loss: 0.0151	LR: 0.020000
+Training Epoch: 72 [38528/50000]	Loss: 0.0278	LR: 0.020000
+epoch 72 training time consumed: 63.42s
+Evaluating Network.....
+Test set: Epoch: 72, Average loss: 0.0077, Accuracy: 0.7313, Time consumed:3.99s
+
+Training Epoch: 73 [128/50000]	Loss: 0.0146	LR: 0.020000
+Training Epoch: 73 [12928/50000]	Loss: 0.0121	LR: 0.020000
+Training Epoch: 73 [25728/50000]	Loss: 0.0108	LR: 0.020000
+Training Epoch: 73 [38528/50000]	Loss: 0.0122	LR: 0.020000
+epoch 73 training time consumed: 63.63s
+Evaluating Network.....
+Test set: Epoch: 73, Average loss: 0.0077, Accuracy: 0.7279, Time consumed:4.00s
+
+Training Epoch: 74 [128/50000]	Loss: 0.0094	LR: 0.020000
+Training Epoch: 74 [12928/50000]	Loss: 0.0407	LR: 0.020000
+Training Epoch: 74 [25728/50000]	Loss: 0.0167	LR: 0.020000
+Training Epoch: 74 [38528/50000]	Loss: 0.0194	LR: 0.020000
+epoch 74 training time consumed: 63.20s
+Evaluating Network.....
+Test set: Epoch: 74, Average loss: 0.0082, Accuracy: 0.7193, Time consumed:3.99s
+
+Training Epoch: 75 [128/50000]	Loss: 0.0149	LR: 0.020000
+Training Epoch: 75 [12928/50000]	Loss: 0.0151	LR: 0.020000
+Training Epoch: 75 [25728/50000]	Loss: 0.0201	LR: 0.020000
+Training Epoch: 75 [38528/50000]	Loss: 0.0333	LR: 0.020000
+epoch 75 training time consumed: 63.03s
+Evaluating Network.....
+Test set: Epoch: 75, Average loss: 0.0085, Accuracy: 0.7091, Time consumed:4.08s
+
+Training Epoch: 76 [128/50000]	Loss: 0.0309	LR: 0.020000
+Training Epoch: 76 [12928/50000]	Loss: 0.0452	LR: 0.020000
+Training Epoch: 76 [25728/50000]	Loss: 0.0498	LR: 0.020000
+Training Epoch: 76 [38528/50000]	Loss: 0.1876	LR: 0.020000
+epoch 76 training time consumed: 63.23s
+Evaluating Network.....
+Test set: Epoch: 76, Average loss: 0.0093, Accuracy: 0.6795, Time consumed:4.08s
+
+Training Epoch: 77 [128/50000]	Loss: 0.1651	LR: 0.020000
+Training Epoch: 77 [12928/50000]	Loss: 0.1324	LR: 0.020000
+Training Epoch: 77 [25728/50000]	Loss: 0.1921	LR: 0.020000
+Training Epoch: 77 [38528/50000]	Loss: 0.2881	LR: 0.020000
+epoch 77 training time consumed: 63.43s
+Evaluating Network.....
+Test set: Epoch: 77, Average loss: 0.0102, Accuracy: 0.6607, Time consumed:4.06s
+
+Training Epoch: 78 [128/50000]	Loss: 0.1687	LR: 0.020000
+Training Epoch: 78 [12928/50000]	Loss: 0.1218	LR: 0.020000
+Training Epoch: 78 [25728/50000]	Loss: 0.1304	LR: 0.020000
+Training Epoch: 78 [38528/50000]	Loss: 0.1664	LR: 0.020000
+epoch 78 training time consumed: 62.93s
+Evaluating Network.....
+Test set: Epoch: 78, Average loss: 0.0098, Accuracy: 0.6659, Time consumed:4.02s
+
+Training Epoch: 79 [128/50000]	Loss: 0.0828	LR: 0.020000
+Training Epoch: 79 [12928/50000]	Loss: 0.1098	LR: 0.020000
+Training Epoch: 79 [25728/50000]	Loss: 0.1021	LR: 0.020000
+Training Epoch: 79 [38528/50000]	Loss: 0.1293	LR: 0.020000
+epoch 79 training time consumed: 63.07s
+Evaluating Network.....
+Test set: Epoch: 79, Average loss: 0.0096, Accuracy: 0.6743, Time consumed:4.04s
+
+Training Epoch: 80 [128/50000]	Loss: 0.1479	LR: 0.020000
+Training Epoch: 80 [12928/50000]	Loss: 0.0738	LR: 0.020000
+Training Epoch: 80 [25728/50000]	Loss: 0.1030	LR: 0.020000
+Training Epoch: 80 [38528/50000]	Loss: 0.1398	LR: 0.020000
+epoch 80 training time consumed: 63.20s
+Evaluating Network.....
+Test set: Epoch: 80, Average loss: 0.0095, Accuracy: 0.6796, Time consumed:4.05s
+
+Training Epoch: 81 [128/50000]	Loss: 0.0787	LR: 0.020000
+Training Epoch: 81 [12928/50000]	Loss: 0.0966	LR: 0.020000
+Training Epoch: 81 [25728/50000]	Loss: 0.0592	LR: 0.020000
+Training Epoch: 81 [38528/50000]	Loss: 0.1271	LR: 0.020000
+epoch 81 training time consumed: 63.33s
+Evaluating Network.....
+Test set: Epoch: 81, Average loss: 0.0093, Accuracy: 0.6880, Time consumed:4.01s
+
+Training Epoch: 82 [128/50000]	Loss: 0.0368	LR: 0.020000
+Training Epoch: 82 [12928/50000]	Loss: 0.0618	LR: 0.020000
+Training Epoch: 82 [25728/50000]	Loss: 0.0790	LR: 0.020000
+Training Epoch: 82 [38528/50000]	Loss: 0.0789	LR: 0.020000
+epoch 82 training time consumed: 62.93s
+Evaluating Network.....
+Test set: Epoch: 82, Average loss: 0.0097, Accuracy: 0.6688, Time consumed:4.05s
+
+Training Epoch: 83 [128/50000]	Loss: 0.0575	LR: 0.020000
+Training Epoch: 83 [12928/50000]	Loss: 0.0786	LR: 0.020000
+Training Epoch: 83 [25728/50000]	Loss: 0.1161	LR: 0.020000
+Training Epoch: 83 [38528/50000]	Loss: 0.1367	LR: 0.020000
+epoch 83 training time consumed: 63.36s
+Evaluating Network.....
+Test set: Epoch: 83, Average loss: 0.0103, Accuracy: 0.6611, Time consumed:3.98s
+
+Training Epoch: 84 [128/50000]	Loss: 0.0422	LR: 0.020000
+Training Epoch: 84 [12928/50000]	Loss: 0.1620	LR: 0.020000
+Training Epoch: 84 [25728/50000]	Loss: 0.1874	LR: 0.020000
+Training Epoch: 84 [38528/50000]	Loss: 0.0992	LR: 0.020000
+epoch 84 training time consumed: 63.18s
+Evaluating Network.....
+Test set: Epoch: 84, Average loss: 0.0101, Accuracy: 0.6628, Time consumed:4.02s
+
+Training Epoch: 85 [128/50000]	Loss: 0.0780	LR: 0.020000
+Training Epoch: 85 [12928/50000]	Loss: 0.0877	LR: 0.020000
+Training Epoch: 85 [25728/50000]	Loss: 0.1443	LR: 0.020000
+Training Epoch: 85 [38528/50000]	Loss: 0.1146	LR: 0.020000
+epoch 85 training time consumed: 63.19s
+Evaluating Network.....
+Test set: Epoch: 85, Average loss: 0.0097, Accuracy: 0.6740, Time consumed:4.03s
+
+Training Epoch: 86 [128/50000]	Loss: 0.1258	LR: 0.020000
+Training Epoch: 86 [12928/50000]	Loss: 0.0740	LR: 0.020000
+Training Epoch: 86 [25728/50000]	Loss: 0.1365	LR: 0.020000
+Training Epoch: 86 [38528/50000]	Loss: 0.1207	LR: 0.020000
+epoch 86 training time consumed: 63.12s
+Evaluating Network.....
+Test set: Epoch: 86, Average loss: 0.0099, Accuracy: 0.6767, Time consumed:4.07s
+
+Training Epoch: 87 [128/50000]	Loss: 0.0609	LR: 0.020000
+Training Epoch: 87 [12928/50000]	Loss: 0.0556	LR: 0.020000
+Training Epoch: 87 [25728/50000]	Loss: 0.0411	LR: 0.020000
+Training Epoch: 87 [38528/50000]	Loss: 0.0645	LR: 0.020000
+epoch 87 training time consumed: 63.24s
+Evaluating Network.....
+Test set: Epoch: 87, Average loss: 0.0099, Accuracy: 0.6762, Time consumed:3.99s
+
+Training Epoch: 88 [128/50000]	Loss: 0.0444	LR: 0.020000
+Training Epoch: 88 [12928/50000]	Loss: 0.0497	LR: 0.020000
+Training Epoch: 88 [25728/50000]	Loss: 0.0335	LR: 0.020000
+Training Epoch: 88 [38528/50000]	Loss: 0.0591	LR: 0.020000
+epoch 88 training time consumed: 63.16s
+Evaluating Network.....
+Test set: Epoch: 88, Average loss: 0.0095, Accuracy: 0.6918, Time consumed:3.97s
+
+Training Epoch: 89 [128/50000]	Loss: 0.0777	LR: 0.020000
+Training Epoch: 89 [12928/50000]	Loss: 0.0481	LR: 0.020000
+Training Epoch: 89 [25728/50000]	Loss: 0.0484	LR: 0.020000
+Training Epoch: 89 [38528/50000]	Loss: 0.1220	LR: 0.020000
+epoch 89 training time consumed: 63.47s
+Evaluating Network.....
+Test set: Epoch: 89, Average loss: 0.0100, Accuracy: 0.6750, Time consumed:3.98s
+
+Training Epoch: 90 [128/50000]	Loss: 0.0910	LR: 0.020000
+Training Epoch: 90 [12928/50000]	Loss: 0.1146	LR: 0.020000
+Training Epoch: 90 [25728/50000]	Loss: 0.0752	LR: 0.020000
+Training Epoch: 90 [38528/50000]	Loss: 0.1838	LR: 0.020000
+epoch 90 training time consumed: 63.45s
+Evaluating Network.....
+Test set: Epoch: 90, Average loss: 0.0115, Accuracy: 0.6246, Time consumed:4.08s
+
+Training Epoch: 91 [128/50000]	Loss: 0.1503	LR: 0.020000
+Training Epoch: 91 [12928/50000]	Loss: 0.1159	LR: 0.020000
+Training Epoch: 91 [25728/50000]	Loss: 0.1349	LR: 0.020000
+Training Epoch: 91 [38528/50000]	Loss: 0.1105	LR: 0.020000
+epoch 91 training time consumed: 63.19s
+Evaluating Network.....
+Test set: Epoch: 91, Average loss: 0.0110, Accuracy: 0.6383, Time consumed:4.01s
+
+Training Epoch: 92 [128/50000]	Loss: 0.1660	LR: 0.020000
+Training Epoch: 92 [12928/50000]	Loss: 0.0709	LR: 0.020000
+Training Epoch: 92 [25728/50000]	Loss: 0.1661	LR: 0.020000
+Training Epoch: 92 [38528/50000]	Loss: 0.2303	LR: 0.020000
+epoch 92 training time consumed: 63.42s
+Evaluating Network.....
+Test set: Epoch: 92, Average loss: 0.0099, Accuracy: 0.6704, Time consumed:4.03s
+
+Training Epoch: 93 [128/50000]	Loss: 0.1905	LR: 0.020000
+Training Epoch: 93 [12928/50000]	Loss: 0.0726	LR: 0.020000
+Training Epoch: 93 [25728/50000]	Loss: 0.1080	LR: 0.020000
+Training Epoch: 93 [38528/50000]	Loss: 0.0928	LR: 0.020000
+epoch 93 training time consumed: 62.96s
+Evaluating Network.....
+Test set: Epoch: 93, Average loss: 0.0098, Accuracy: 0.6851, Time consumed:4.02s
+
+Training Epoch: 94 [128/50000]	Loss: 0.0622	LR: 0.020000
+Training Epoch: 94 [12928/50000]	Loss: 0.0410	LR: 0.020000
+Training Epoch: 94 [25728/50000]	Loss: 0.0544	LR: 0.020000
+Training Epoch: 94 [38528/50000]	Loss: 0.1019	LR: 0.020000
+epoch 94 training time consumed: 63.84s
+Evaluating Network.....
+Test set: Epoch: 94, Average loss: 0.0097, Accuracy: 0.6860, Time consumed:4.04s
+
+Training Epoch: 95 [128/50000]	Loss: 0.0367	LR: 0.020000
+Training Epoch: 95 [12928/50000]	Loss: 0.0425	LR: 0.020000
+Training Epoch: 95 [25728/50000]	Loss: 0.0615	LR: 0.020000
+Training Epoch: 95 [38528/50000]	Loss: 0.0600	LR: 0.020000
+epoch 95 training time consumed: 63.42s
+Evaluating Network.....
+Test set: Epoch: 95, Average loss: 0.0098, Accuracy: 0.6864, Time consumed:3.99s
+
+Training Epoch: 96 [128/50000]	Loss: 0.0516	LR: 0.020000
+Training Epoch: 96 [12928/50000]	Loss: 0.0446	LR: 0.020000
+Training Epoch: 96 [25728/50000]	Loss: 0.0322	LR: 0.020000
+Training Epoch: 96 [38528/50000]	Loss: 0.0300	LR: 0.020000
+epoch 96 training time consumed: 63.06s
+Evaluating Network.....
+Test set: Epoch: 96, Average loss: 0.0092, Accuracy: 0.6969, Time consumed:4.08s
+
+Training Epoch: 97 [128/50000]	Loss: 0.0714	LR: 0.020000
+Training Epoch: 97 [12928/50000]	Loss: 0.0431	LR: 0.020000
+Training Epoch: 97 [25728/50000]	Loss: 0.0394	LR: 0.020000
+Training Epoch: 97 [38528/50000]	Loss: 0.0564	LR: 0.020000
+epoch 97 training time consumed: 63.50s
+Evaluating Network.....
+Test set: Epoch: 97, Average loss: 0.0100, Accuracy: 0.6881, Time consumed:4.04s
+
+Training Epoch: 98 [128/50000]	Loss: 0.0380	LR: 0.020000
+Training Epoch: 98 [12928/50000]	Loss: 0.0416	LR: 0.020000
+Training Epoch: 98 [25728/50000]	Loss: 0.0839	LR: 0.020000
+Training Epoch: 98 [38528/50000]	Loss: 0.0572	LR: 0.020000
+epoch 98 training time consumed: 63.00s
+Evaluating Network.....
+Test set: Epoch: 98, Average loss: 0.0100, Accuracy: 0.6724, Time consumed:4.09s
+
+Training Epoch: 99 [128/50000]	Loss: 0.0754	LR: 0.020000
+Training Epoch: 99 [12928/50000]	Loss: 0.1883	LR: 0.020000
+Training Epoch: 99 [25728/50000]	Loss: 0.2628	LR: 0.020000
+Training Epoch: 99 [38528/50000]	Loss: 0.3193	LR: 0.020000
+epoch 99 training time consumed: 63.80s
+Evaluating Network.....
+Test set: Epoch: 99, Average loss: 0.0118, Accuracy: 0.6116, Time consumed:4.09s
+
+Training Epoch: 100 [128/50000]	Loss: 0.2283	LR: 0.020000
+Training Epoch: 100 [12928/50000]	Loss: 0.2778	LR: 0.020000
+Training Epoch: 100 [25728/50000]	Loss: 0.2629	LR: 0.020000
+Training Epoch: 100 [38528/50000]	Loss: 0.2557	LR: 0.020000
+epoch 100 training time consumed: 63.26s
+Evaluating Network.....
+Test set: Epoch: 100, Average loss: 0.0107, Accuracy: 0.6523, Time consumed:3.98s
+
+Training Epoch: 101 [128/50000]	Loss: 0.1743	LR: 0.020000
+Training Epoch: 101 [12928/50000]	Loss: 0.0772	LR: 0.020000
+Training Epoch: 101 [25728/50000]	Loss: 0.0923	LR: 0.020000
+Training Epoch: 101 [38528/50000]	Loss: 0.1331	LR: 0.020000
+epoch 101 training time consumed: 63.40s
+Evaluating Network.....
+Test set: Epoch: 101, Average loss: 0.0099, Accuracy: 0.6679, Time consumed:3.97s
+
+Training Epoch: 102 [128/50000]	Loss: 0.0608	LR: 0.020000
+Training Epoch: 102 [12928/50000]	Loss: 0.0884	LR: 0.020000
+Training Epoch: 102 [25728/50000]	Loss: 0.1868	LR: 0.020000
+Training Epoch: 102 [38528/50000]	Loss: 0.0748	LR: 0.020000
+epoch 102 training time consumed: 63.26s
+Evaluating Network.....
+Test set: Epoch: 102, Average loss: 0.0104, Accuracy: 0.6714, Time consumed:4.01s
+
+Training Epoch: 103 [128/50000]	Loss: 0.1223	LR: 0.020000
+Training Epoch: 103 [12928/50000]	Loss: 0.0415	LR: 0.020000
+Training Epoch: 103 [25728/50000]	Loss: 0.0666	LR: 0.020000
+Training Epoch: 103 [38528/50000]	Loss: 0.0826	LR: 0.020000
+epoch 103 training time consumed: 62.99s
+Evaluating Network.....
+Test set: Epoch: 103, Average loss: 0.0102, Accuracy: 0.6730, Time consumed:4.13s
+
+Training Epoch: 104 [128/50000]	Loss: 0.0628	LR: 0.020000
+Training Epoch: 104 [12928/50000]	Loss: 0.0644	LR: 0.020000
+Training Epoch: 104 [25728/50000]	Loss: 0.0353	LR: 0.020000
+Training Epoch: 104 [38528/50000]	Loss: 0.0559	LR: 0.020000
+epoch 104 training time consumed: 63.06s
+Evaluating Network.....
+Test set: Epoch: 104, Average loss: 0.0096, Accuracy: 0.6846, Time consumed:4.06s
+
+Training Epoch: 105 [128/50000]	Loss: 0.0337	LR: 0.020000
+Training Epoch: 105 [12928/50000]	Loss: 0.0351	LR: 0.020000
+Training Epoch: 105 [25728/50000]	Loss: 0.0538	LR: 0.020000
+Training Epoch: 105 [38528/50000]	Loss: 0.0617	LR: 0.020000
+epoch 105 training time consumed: 63.23s
+Evaluating Network.....
+Test set: Epoch: 105, Average loss: 0.0092, Accuracy: 0.7012, Time consumed:3.99s
+
+Training Epoch: 106 [128/50000]	Loss: 0.0485	LR: 0.020000
+Training Epoch: 106 [12928/50000]	Loss: 0.0649	LR: 0.020000
+Training Epoch: 106 [25728/50000]	Loss: 0.0530	LR: 0.020000
+Training Epoch: 106 [38528/50000]	Loss: 0.0526	LR: 0.020000
+epoch 106 training time consumed: 64.01s
+Evaluating Network.....
+Test set: Epoch: 106, Average loss: 0.0099, Accuracy: 0.6765, Time consumed:4.09s
+
+Training Epoch: 107 [128/50000]	Loss: 0.0520	LR: 0.020000
+Training Epoch: 107 [12928/50000]	Loss: 0.0869	LR: 0.020000
+Training Epoch: 107 [25728/50000]	Loss: 0.0576	LR: 0.020000
+Training Epoch: 107 [38528/50000]	Loss: 0.1599	LR: 0.020000
+epoch 107 training time consumed: 63.22s
+Evaluating Network.....
+Test set: Epoch: 107, Average loss: 0.0112, Accuracy: 0.6430, Time consumed:4.01s
+
+Training Epoch: 108 [128/50000]	Loss: 0.1059	LR: 0.020000
+Training Epoch: 108 [12928/50000]	Loss: 0.1208	LR: 0.020000
+Training Epoch: 108 [25728/50000]	Loss: 0.1315	LR: 0.020000
+Training Epoch: 108 [38528/50000]	Loss: 0.2417	LR: 0.020000
+epoch 108 training time consumed: 63.12s
+Evaluating Network.....
+Test set: Epoch: 108, Average loss: 0.0112, Accuracy: 0.6314, Time consumed:4.09s
+
+Training Epoch: 109 [128/50000]	Loss: 0.2190	LR: 0.020000
+Training Epoch: 109 [12928/50000]	Loss: 0.1731	LR: 0.020000
+Training Epoch: 109 [25728/50000]	Loss: 0.1488	LR: 0.020000
+Training Epoch: 109 [38528/50000]	Loss: 0.2904	LR: 0.020000
+epoch 109 training time consumed: 63.35s
+Evaluating Network.....
+Test set: Epoch: 109, Average loss: 0.0112, Accuracy: 0.6325, Time consumed:4.01s
+
+Training Epoch: 110 [128/50000]	Loss: 0.1373	LR: 0.020000
+Training Epoch: 110 [12928/50000]	Loss: 0.1296	LR: 0.020000
+Training Epoch: 110 [25728/50000]	Loss: 0.1404	LR: 0.020000
+Training Epoch: 110 [38528/50000]	Loss: 0.2008	LR: 0.020000
+epoch 110 training time consumed: 63.30s
+Evaluating Network.....
+Test set: Epoch: 110, Average loss: 0.0100, Accuracy: 0.6731, Time consumed:3.98s
+
+Training Epoch: 111 [128/50000]	Loss: 0.0792	LR: 0.020000
+Training Epoch: 111 [12928/50000]	Loss: 0.0614	LR: 0.020000
+Training Epoch: 111 [25728/50000]	Loss: 0.1109	LR: 0.020000
+Training Epoch: 111 [38528/50000]	Loss: 0.0987	LR: 0.020000
+epoch 111 training time consumed: 63.70s
+Evaluating Network.....
+Test set: Epoch: 111, Average loss: 0.0100, Accuracy: 0.6769, Time consumed:4.07s
+
+Training Epoch: 112 [128/50000]	Loss: 0.0581	LR: 0.020000
+Training Epoch: 112 [12928/50000]	Loss: 0.1531	LR: 0.020000
+Training Epoch: 112 [25728/50000]	Loss: 0.0494	LR: 0.020000
+Training Epoch: 112 [38528/50000]	Loss: 0.0669	LR: 0.020000
+epoch 112 training time consumed: 63.61s
+Evaluating Network.....
+Test set: Epoch: 112, Average loss: 0.0104, Accuracy: 0.6702, Time consumed:4.05s
+
+Training Epoch: 113 [128/50000]	Loss: 0.0750	LR: 0.020000
+Training Epoch: 113 [12928/50000]	Loss: 0.0608	LR: 0.020000
+Training Epoch: 113 [25728/50000]	Loss: 0.0405	LR: 0.020000
+Training Epoch: 113 [38528/50000]	Loss: 0.0334	LR: 0.020000
+epoch 113 training time consumed: 63.11s
+Evaluating Network.....
+Test set: Epoch: 113, Average loss: 0.0094, Accuracy: 0.6836, Time consumed:4.03s
+
+Training Epoch: 114 [128/50000]	Loss: 0.0461	LR: 0.020000
+Training Epoch: 114 [12928/50000]	Loss: 0.0422	LR: 0.020000
+Training Epoch: 114 [25728/50000]	Loss: 0.0422	LR: 0.020000
+Training Epoch: 114 [38528/50000]	Loss: 0.0535	LR: 0.020000
+epoch 114 training time consumed: 63.40s
+Evaluating Network.....
+Test set: Epoch: 114, Average loss: 0.0103, Accuracy: 0.6717, Time consumed:4.09s
+
+Training Epoch: 115 [128/50000]	Loss: 0.0558	LR: 0.020000
+Training Epoch: 115 [12928/50000]	Loss: 0.0487	LR: 0.020000
+Training Epoch: 115 [25728/50000]	Loss: 0.0761	LR: 0.020000
+Training Epoch: 115 [38528/50000]	Loss: 0.1184	LR: 0.020000
+epoch 115 training time consumed: 63.01s
+Evaluating Network.....
+Test set: Epoch: 115, Average loss: 0.0106, Accuracy: 0.6658, Time consumed:3.98s
+
+Training Epoch: 116 [128/50000]	Loss: 0.0777	LR: 0.020000
+Training Epoch: 116 [12928/50000]	Loss: 0.0579	LR: 0.020000
+Training Epoch: 116 [25728/50000]	Loss: 0.1042	LR: 0.020000
+Training Epoch: 116 [38528/50000]	Loss: 0.1246	LR: 0.020000
+epoch 116 training time consumed: 63.34s
+Evaluating Network.....
+Test set: Epoch: 116, Average loss: 0.0115, Accuracy: 0.6344, Time consumed:4.06s
+
+Training Epoch: 117 [128/50000]	Loss: 0.2224	LR: 0.020000
+Training Epoch: 117 [12928/50000]	Loss: 0.0487	LR: 0.020000
+Training Epoch: 117 [25728/50000]	Loss: 0.1348	LR: 0.020000
+Training Epoch: 117 [38528/50000]	Loss: 0.2304	LR: 0.020000
+epoch 117 training time consumed: 64.09s
+Evaluating Network.....
+Test set: Epoch: 117, Average loss: 0.0113, Accuracy: 0.6391, Time consumed:4.09s
+
+Training Epoch: 118 [128/50000]	Loss: 0.0869	LR: 0.020000
+Training Epoch: 118 [12928/50000]	Loss: 0.1358	LR: 0.020000
+Training Epoch: 118 [25728/50000]	Loss: 0.0884	LR: 0.020000
+Training Epoch: 118 [38528/50000]	Loss: 0.1975	LR: 0.020000
+epoch 118 training time consumed: 63.33s
+Evaluating Network.....
+Test set: Epoch: 118, Average loss: 0.0112, Accuracy: 0.6470, Time consumed:4.05s
+
+Training Epoch: 119 [128/50000]	Loss: 0.1598	LR: 0.020000
+Training Epoch: 119 [12928/50000]	Loss: 0.0389	LR: 0.020000
+Training Epoch: 119 [25728/50000]	Loss: 0.1148	LR: 0.020000
+Training Epoch: 119 [38528/50000]	Loss: 0.1328	LR: 0.020000
+epoch 119 training time consumed: 63.11s
+Evaluating Network.....
+Test set: Epoch: 119, Average loss: 0.0106, Accuracy: 0.6647, Time consumed:3.99s
+
+Training Epoch: 120 [128/50000]	Loss: 0.1030	LR: 0.004000
+Training Epoch: 120 [12928/50000]	Loss: 0.0218	LR: 0.004000
+Training Epoch: 120 [25728/50000]	Loss: 0.0428	LR: 0.004000
+Training Epoch: 120 [38528/50000]	Loss: 0.0391	LR: 0.004000
+epoch 120 training time consumed: 62.76s
+Evaluating Network.....
+Test set: Epoch: 120, Average loss: 0.0080, Accuracy: 0.7328, Time consumed:4.02s
+
+Training Epoch: 121 [128/50000]	Loss: 0.0096	LR: 0.004000
+Training Epoch: 121 [12928/50000]	Loss: 0.0097	LR: 0.004000
+Training Epoch: 121 [25728/50000]	Loss: 0.0184	LR: 0.004000
+Training Epoch: 121 [38528/50000]	Loss: 0.0219	LR: 0.004000
+epoch 121 training time consumed: 63.21s
+Evaluating Network.....
+Test set: Epoch: 121, Average loss: 0.0080, Accuracy: 0.7343, Time consumed:3.98s
+
+Training Epoch: 122 [128/50000]	Loss: 0.0073	LR: 0.004000
+Training Epoch: 122 [12928/50000]	Loss: 0.0069	LR: 0.004000
+Training Epoch: 122 [25728/50000]	Loss: 0.0104	LR: 0.004000
+Training Epoch: 122 [38528/50000]	Loss: 0.0037	LR: 0.004000
+epoch 122 training time consumed: 62.91s
+Evaluating Network.....
+Test set: Epoch: 122, Average loss: 0.0079, Accuracy: 0.7366, Time consumed:3.99s
+
+Training Epoch: 123 [128/50000]	Loss: 0.0063	LR: 0.004000
+Training Epoch: 123 [12928/50000]	Loss: 0.0035	LR: 0.004000
+Training Epoch: 123 [25728/50000]	Loss: 0.0238	LR: 0.004000
+Training Epoch: 123 [38528/50000]	Loss: 0.0093	LR: 0.004000
+epoch 123 training time consumed: 63.79s
+Evaluating Network.....
+Test set: Epoch: 123, Average loss: 0.0078, Accuracy: 0.7336, Time consumed:4.01s
+
+Training Epoch: 124 [128/50000]	Loss: 0.0053	LR: 0.004000
+Training Epoch: 124 [12928/50000]	Loss: 0.0070	LR: 0.004000
+Training Epoch: 124 [25728/50000]	Loss: 0.0088	LR: 0.004000
+Training Epoch: 124 [38528/50000]	Loss: 0.0058	LR: 0.004000
+epoch 124 training time consumed: 63.05s
+Evaluating Network.....
+Test set: Epoch: 124, Average loss: 0.0079, Accuracy: 0.7383, Time consumed:3.99s
+
+Training Epoch: 125 [128/50000]	Loss: 0.0067	LR: 0.004000
+Training Epoch: 125 [12928/50000]	Loss: 0.0054	LR: 0.004000
+Training Epoch: 125 [25728/50000]	Loss: 0.0067	LR: 0.004000
+Training Epoch: 125 [38528/50000]	Loss: 0.0166	LR: 0.004000
+epoch 125 training time consumed: 63.40s
+Evaluating Network.....
+Test set: Epoch: 125, Average loss: 0.0079, Accuracy: 0.7401, Time consumed:3.99s
+
+Training Epoch: 126 [128/50000]	Loss: 0.0089	LR: 0.004000
+Training Epoch: 126 [12928/50000]	Loss: 0.0046	LR: 0.004000
+Training Epoch: 126 [25728/50000]	Loss: 0.0059	LR: 0.004000
+Training Epoch: 126 [38528/50000]	Loss: 0.0062	LR: 0.004000
+epoch 126 training time consumed: 63.29s
+Evaluating Network.....
+Test set: Epoch: 126, Average loss: 0.0078, Accuracy: 0.7400, Time consumed:3.97s
+
+Training Epoch: 127 [128/50000]	Loss: 0.0039	LR: 0.004000
+Training Epoch: 127 [12928/50000]	Loss: 0.0050	LR: 0.004000
+Training Epoch: 127 [25728/50000]	Loss: 0.0049	LR: 0.004000
+Training Epoch: 127 [38528/50000]	Loss: 0.0043	LR: 0.004000
+epoch 127 training time consumed: 63.46s
+Evaluating Network.....
+Test set: Epoch: 127, Average loss: 0.0077, Accuracy: 0.7407, Time consumed:3.98s
+
+Training Epoch: 128 [128/50000]	Loss: 0.0056	LR: 0.004000
+Training Epoch: 128 [12928/50000]	Loss: 0.0035	LR: 0.004000
+Training Epoch: 128 [25728/50000]	Loss: 0.0045	LR: 0.004000
+Training Epoch: 128 [38528/50000]	Loss: 0.0034	LR: 0.004000
+epoch 128 training time consumed: 63.04s
+Evaluating Network.....
+Test set: Epoch: 128, Average loss: 0.0077, Accuracy: 0.7407, Time consumed:4.07s
+
+Training Epoch: 129 [128/50000]	Loss: 0.0037	LR: 0.004000
+Training Epoch: 129 [12928/50000]	Loss: 0.0077	LR: 0.004000
+Training Epoch: 129 [25728/50000]	Loss: 0.0033	LR: 0.004000
+Training Epoch: 129 [38528/50000]	Loss: 0.0042	LR: 0.004000
+epoch 129 training time consumed: 63.59s
+Evaluating Network.....
+Test set: Epoch: 129, Average loss: 0.0077, Accuracy: 0.7397, Time consumed:4.00s
+
+Training Epoch: 130 [128/50000]	Loss: 0.0076	LR: 0.004000
+Training Epoch: 130 [12928/50000]	Loss: 0.0047	LR: 0.004000
+Training Epoch: 130 [25728/50000]	Loss: 0.0056	LR: 0.004000
+Training Epoch: 130 [38528/50000]	Loss: 0.0088	LR: 0.004000
+epoch 130 training time consumed: 63.20s
+Evaluating Network.....
+Test set: Epoch: 130, Average loss: 0.0076, Accuracy: 0.7409, Time consumed:4.03s
+
+Training Epoch: 131 [128/50000]	Loss: 0.0076	LR: 0.004000
+Training Epoch: 131 [12928/50000]	Loss: 0.0033	LR: 0.004000
+Training Epoch: 131 [25728/50000]	Loss: 0.0041	LR: 0.004000
+Training Epoch: 131 [38528/50000]	Loss: 0.0036	LR: 0.004000
+epoch 131 training time consumed: 63.25s
+Evaluating Network.....
+Test set: Epoch: 131, Average loss: 0.0077, Accuracy: 0.7407, Time consumed:4.06s
+
+Training Epoch: 132 [128/50000]	Loss: 0.0035	LR: 0.004000
+Training Epoch: 132 [12928/50000]	Loss: 0.0043	LR: 0.004000
+Training Epoch: 132 [25728/50000]	Loss: 0.0220	LR: 0.004000
+Training Epoch: 132 [38528/50000]	Loss: 0.0041	LR: 0.004000
+epoch 132 training time consumed: 63.09s
+Evaluating Network.....
+Test set: Epoch: 132, Average loss: 0.0076, Accuracy: 0.7409, Time consumed:4.04s
+
+Training Epoch: 133 [128/50000]	Loss: 0.0054	LR: 0.004000
+Training Epoch: 133 [12928/50000]	Loss: 0.0069	LR: 0.004000
+Training Epoch: 133 [25728/50000]	Loss: 0.0107	LR: 0.004000
+Training Epoch: 133 [38528/50000]	Loss: 0.0088	LR: 0.004000
+epoch 133 training time consumed: 63.74s
+Evaluating Network.....
+Test set: Epoch: 133, Average loss: 0.0076, Accuracy: 0.7407, Time consumed:3.99s
+
+Training Epoch: 134 [128/50000]	Loss: 0.0038	LR: 0.004000
+Training Epoch: 134 [12928/50000]	Loss: 0.0059	LR: 0.004000
+Training Epoch: 134 [25728/50000]	Loss: 0.0033	LR: 0.004000
+Training Epoch: 134 [38528/50000]	Loss: 0.0054	LR: 0.004000
+epoch 134 training time consumed: 63.16s
+Evaluating Network.....
+Test set: Epoch: 134, Average loss: 0.0076, Accuracy: 0.7412, Time consumed:4.04s
+
+Training Epoch: 135 [128/50000]	Loss: 0.0054	LR: 0.004000
+Training Epoch: 135 [12928/50000]	Loss: 0.0035	LR: 0.004000
+Training Epoch: 135 [25728/50000]	Loss: 0.0039	LR: 0.004000
+Training Epoch: 135 [38528/50000]	Loss: 0.0049	LR: 0.004000
+epoch 135 training time consumed: 63.56s
+Evaluating Network.....
+Test set: Epoch: 135, Average loss: 0.0076, Accuracy: 0.7409, Time consumed:4.07s
+
+Training Epoch: 136 [128/50000]	Loss: 0.0046	LR: 0.004000
+Training Epoch: 136 [12928/50000]	Loss: 0.0041	LR: 0.004000
+Training Epoch: 136 [25728/50000]	Loss: 0.0033	LR: 0.004000
+Training Epoch: 136 [38528/50000]	Loss: 0.0043	LR: 0.004000
+epoch 136 training time consumed: 63.27s
+Evaluating Network.....
+Test set: Epoch: 136, Average loss: 0.0076, Accuracy: 0.7411, Time consumed:4.01s
+
+Training Epoch: 137 [128/50000]	Loss: 0.0040	LR: 0.004000
+Training Epoch: 137 [12928/50000]	Loss: 0.0047	LR: 0.004000
+Training Epoch: 137 [25728/50000]	Loss: 0.0042	LR: 0.004000
+Training Epoch: 137 [38528/50000]	Loss: 0.0045	LR: 0.004000
+epoch 137 training time consumed: 62.95s
+Evaluating Network.....
+Test set: Epoch: 137, Average loss: 0.0075, Accuracy: 0.7415, Time consumed:4.06s
+
+Training Epoch: 138 [128/50000]	Loss: 0.0063	LR: 0.004000
+Training Epoch: 138 [12928/50000]	Loss: 0.0058	LR: 0.004000
+Training Epoch: 138 [25728/50000]	Loss: 0.0041	LR: 0.004000
+Training Epoch: 138 [38528/50000]	Loss: 0.0071	LR: 0.004000
+epoch 138 training time consumed: 63.37s
+Evaluating Network.....
+Test set: Epoch: 138, Average loss: 0.0076, Accuracy: 0.7379, Time consumed:4.04s
+
+Training Epoch: 139 [128/50000]	Loss: 0.0063	LR: 0.004000
+Training Epoch: 139 [12928/50000]	Loss: 0.0234	LR: 0.004000
+Training Epoch: 139 [25728/50000]	Loss: 0.0034	LR: 0.004000
+Training Epoch: 139 [38528/50000]	Loss: 0.0054	LR: 0.004000
+epoch 139 training time consumed: 63.54s
+Evaluating Network.....
+Test set: Epoch: 139, Average loss: 0.0075, Accuracy: 0.7383, Time consumed:4.01s
+
+Training Epoch: 140 [128/50000]	Loss: 0.0045	LR: 0.004000
+Training Epoch: 140 [12928/50000]	Loss: 0.0034	LR: 0.004000
+Training Epoch: 140 [25728/50000]	Loss: 0.0031	LR: 0.004000
+Training Epoch: 140 [38528/50000]	Loss: 0.0105	LR: 0.004000
+epoch 140 training time consumed: 63.14s
+Evaluating Network.....
+Test set: Epoch: 140, Average loss: 0.0075, Accuracy: 0.7405, Time consumed:3.98s
+
+Training Epoch: 141 [128/50000]	Loss: 0.0068	LR: 0.004000
+Training Epoch: 141 [12928/50000]	Loss: 0.0044	LR: 0.004000
+Training Epoch: 141 [25728/50000]	Loss: 0.0047	LR: 0.004000
+Training Epoch: 141 [38528/50000]	Loss: 0.0058	LR: 0.004000
+epoch 141 training time consumed: 63.70s
+Evaluating Network.....
+Test set: Epoch: 141, Average loss: 0.0075, Accuracy: 0.7411, Time consumed:3.99s
+
+Training Epoch: 142 [128/50000]	Loss: 0.0044	LR: 0.004000
+Training Epoch: 142 [12928/50000]	Loss: 0.0036	LR: 0.004000
+Training Epoch: 142 [25728/50000]	Loss: 0.0056	LR: 0.004000
+Training Epoch: 142 [38528/50000]	Loss: 0.0103	LR: 0.004000
+epoch 142 training time consumed: 63.25s
+Evaluating Network.....
+Test set: Epoch: 142, Average loss: 0.0075, Accuracy: 0.7399, Time consumed:4.09s
+
+Training Epoch: 143 [128/50000]	Loss: 0.0050	LR: 0.004000
+Training Epoch: 143 [12928/50000]	Loss: 0.0054	LR: 0.004000
+Training Epoch: 143 [25728/50000]	Loss: 0.0038	LR: 0.004000
+Training Epoch: 143 [38528/50000]	Loss: 0.0039	LR: 0.004000
+epoch 143 training time consumed: 63.39s
+Evaluating Network.....
+Test set: Epoch: 143, Average loss: 0.0075, Accuracy: 0.7406, Time consumed:3.98s
+
+Training Epoch: 144 [128/50000]	Loss: 0.0066	LR: 0.004000
+Training Epoch: 144 [12928/50000]	Loss: 0.0063	LR: 0.004000
+Training Epoch: 144 [25728/50000]	Loss: 0.0049	LR: 0.004000
+Training Epoch: 144 [38528/50000]	Loss: 0.0053	LR: 0.004000
+epoch 144 training time consumed: 63.66s
+Evaluating Network.....
+Test set: Epoch: 144, Average loss: 0.0075, Accuracy: 0.7418, Time consumed:3.97s
+
+Training Epoch: 145 [128/50000]	Loss: 0.0047	LR: 0.004000
+Training Epoch: 145 [12928/50000]	Loss: 0.0036	LR: 0.004000
+Training Epoch: 145 [25728/50000]	Loss: 0.0065	LR: 0.004000
+Training Epoch: 145 [38528/50000]	Loss: 0.0054	LR: 0.004000
+epoch 145 training time consumed: 62.95s
+Evaluating Network.....
+Test set: Epoch: 145, Average loss: 0.0074, Accuracy: 0.7416, Time consumed:4.03s
+
+Training Epoch: 146 [128/50000]	Loss: 0.0037	LR: 0.004000
+Training Epoch: 146 [12928/50000]	Loss: 0.0043	LR: 0.004000
+Training Epoch: 146 [25728/50000]	Loss: 0.0040	LR: 0.004000
+Training Epoch: 146 [38528/50000]	Loss: 0.0047	LR: 0.004000
+epoch 146 training time consumed: 63.23s
+Evaluating Network.....
+Test set: Epoch: 146, Average loss: 0.0075, Accuracy: 0.7420, Time consumed:4.07s
+
+Training Epoch: 147 [128/50000]	Loss: 0.0074	LR: 0.004000
+Training Epoch: 147 [12928/50000]	Loss: 0.0058	LR: 0.004000
+Training Epoch: 147 [25728/50000]	Loss: 0.0072	LR: 0.004000
+Training Epoch: 147 [38528/50000]	Loss: 0.0066	LR: 0.004000
+epoch 147 training time consumed: 63.68s
+Evaluating Network.....
+Test set: Epoch: 147, Average loss: 0.0075, Accuracy: 0.7414, Time consumed:3.96s
+
+Training Epoch: 148 [128/50000]	Loss: 0.0046	LR: 0.004000
+Training Epoch: 148 [12928/50000]	Loss: 0.0045	LR: 0.004000
+Training Epoch: 148 [25728/50000]	Loss: 0.0048	LR: 0.004000
+Training Epoch: 148 [38528/50000]	Loss: 0.0088	LR: 0.004000
+epoch 148 training time consumed: 63.16s
+Evaluating Network.....
+Test set: Epoch: 148, Average loss: 0.0075, Accuracy: 0.7402, Time consumed:4.07s
+
+Training Epoch: 149 [128/50000]	Loss: 0.0093	LR: 0.004000
+Training Epoch: 149 [12928/50000]	Loss: 0.0062	LR: 0.004000
+Training Epoch: 149 [25728/50000]	Loss: 0.0078	LR: 0.004000
+Training Epoch: 149 [38528/50000]	Loss: 0.0042	LR: 0.004000
+epoch 149 training time consumed: 63.03s
+Evaluating Network.....
+Test set: Epoch: 149, Average loss: 0.0075, Accuracy: 0.7409, Time consumed:3.98s
+
+Training Epoch: 150 [128/50000]	Loss: 0.0064	LR: 0.004000
+Training Epoch: 150 [12928/50000]	Loss: 0.0102	LR: 0.004000
+Training Epoch: 150 [25728/50000]	Loss: 0.0047	LR: 0.004000
+Training Epoch: 150 [38528/50000]	Loss: 0.0073	LR: 0.004000
+epoch 150 training time consumed: 63.45s
+Evaluating Network.....
+Test set: Epoch: 150, Average loss: 0.0075, Accuracy: 0.7402, Time consumed:4.03s
+
+Training Epoch: 151 [128/50000]	Loss: 0.0055	LR: 0.004000
+Training Epoch: 151 [12928/50000]	Loss: 0.0060	LR: 0.004000
+Training Epoch: 151 [25728/50000]	Loss: 0.0059	LR: 0.004000
+Training Epoch: 151 [38528/50000]	Loss: 0.0058	LR: 0.004000
+epoch 151 training time consumed: 63.17s
+Evaluating Network.....
+Test set: Epoch: 151, Average loss: 0.0075, Accuracy: 0.7387, Time consumed:4.05s
+
+Training Epoch: 152 [128/50000]	Loss: 0.0053	LR: 0.004000
+Training Epoch: 152 [12928/50000]	Loss: 0.0057	LR: 0.004000
+Training Epoch: 152 [25728/50000]	Loss: 0.0061	LR: 0.004000
+Training Epoch: 152 [38528/50000]	Loss: 0.0048	LR: 0.004000
+epoch 152 training time consumed: 62.88s
+Evaluating Network.....
+Test set: Epoch: 152, Average loss: 0.0074, Accuracy: 0.7406, Time consumed:3.99s
+
+Training Epoch: 153 [128/50000]	Loss: 0.0050	LR: 0.004000
+Training Epoch: 153 [12928/50000]	Loss: 0.0050	LR: 0.004000
+Training Epoch: 153 [25728/50000]	Loss: 0.0061	LR: 0.004000
+Training Epoch: 153 [38528/50000]	Loss: 0.0070	LR: 0.004000
+epoch 153 training time consumed: 62.88s
+Evaluating Network.....
+Test set: Epoch: 153, Average loss: 0.0075, Accuracy: 0.7414, Time consumed:4.07s
+
+Training Epoch: 154 [128/50000]	Loss: 0.0037	LR: 0.004000
+Training Epoch: 154 [12928/50000]	Loss: 0.0071	LR: 0.004000
+Training Epoch: 154 [25728/50000]	Loss: 0.0054	LR: 0.004000
+Training Epoch: 154 [38528/50000]	Loss: 0.0053	LR: 0.004000
+epoch 154 training time consumed: 63.09s
+Evaluating Network.....
+Test set: Epoch: 154, Average loss: 0.0074, Accuracy: 0.7410, Time consumed:4.10s
+
+Training Epoch: 155 [128/50000]	Loss: 0.0144	LR: 0.004000
+Training Epoch: 155 [12928/50000]	Loss: 0.0097	LR: 0.004000
+Training Epoch: 155 [25728/50000]	Loss: 0.0054	LR: 0.004000
+Training Epoch: 155 [38528/50000]	Loss: 0.0186	LR: 0.004000
+epoch 155 training time consumed: 63.46s
+Evaluating Network.....
+Test set: Epoch: 155, Average loss: 0.0075, Accuracy: 0.7390, Time consumed:4.09s
+
+Training Epoch: 156 [128/50000]	Loss: 0.0048	LR: 0.004000
+Training Epoch: 156 [12928/50000]	Loss: 0.0043	LR: 0.004000
+Training Epoch: 156 [25728/50000]	Loss: 0.0073	LR: 0.004000
+Training Epoch: 156 [38528/50000]	Loss: 0.0071	LR: 0.004000
+epoch 156 training time consumed: 63.41s
+Evaluating Network.....
+Test set: Epoch: 156, Average loss: 0.0075, Accuracy: 0.7412, Time consumed:4.05s
+
+Training Epoch: 157 [128/50000]	Loss: 0.0053	LR: 0.004000
+Training Epoch: 157 [12928/50000]	Loss: 0.0107	LR: 0.004000
+Training Epoch: 157 [25728/50000]	Loss: 0.0256	LR: 0.004000
+Training Epoch: 157 [38528/50000]	Loss: 0.0071	LR: 0.004000
+epoch 157 training time consumed: 63.09s
+Evaluating Network.....
+Test set: Epoch: 157, Average loss: 0.0075, Accuracy: 0.7387, Time consumed:4.05s
+
+Training Epoch: 158 [128/50000]	Loss: 0.0087	LR: 0.004000
+Training Epoch: 158 [12928/50000]	Loss: 0.0084	LR: 0.004000
+Training Epoch: 158 [25728/50000]	Loss: 0.0048	LR: 0.004000
+Training Epoch: 158 [38528/50000]	Loss: 0.0051	LR: 0.004000
+epoch 158 training time consumed: 63.06s
+Evaluating Network.....
+Test set: Epoch: 158, Average loss: 0.0075, Accuracy: 0.7382, Time consumed:3.99s
+
+Training Epoch: 159 [128/50000]	Loss: 0.0079	LR: 0.004000
+Training Epoch: 159 [12928/50000]	Loss: 0.0092	LR: 0.004000
+Training Epoch: 159 [25728/50000]	Loss: 0.0062	LR: 0.004000
+Training Epoch: 159 [38528/50000]	Loss: 0.0162	LR: 0.004000
+epoch 159 training time consumed: 63.27s
+Evaluating Network.....
+Test set: Epoch: 159, Average loss: 0.0076, Accuracy: 0.7384, Time consumed:4.00s
+
+Training Epoch: 160 [128/50000]	Loss: 0.0067	LR: 0.000800
+Training Epoch: 160 [12928/50000]	Loss: 0.0062	LR: 0.000800
+Training Epoch: 160 [25728/50000]	Loss: 0.0064	LR: 0.000800
+Training Epoch: 160 [38528/50000]	Loss: 0.0055	LR: 0.000800
+epoch 160 training time consumed: 63.16s
+Evaluating Network.....
+Test set: Epoch: 160, Average loss: 0.0075, Accuracy: 0.7388, Time consumed:4.01s
+
+Training Epoch: 161 [128/50000]	Loss: 0.0064	LR: 0.000800
+Training Epoch: 161 [12928/50000]	Loss: 0.0046	LR: 0.000800
+Training Epoch: 161 [25728/50000]	Loss: 0.0073	LR: 0.000800
+Training Epoch: 161 [38528/50000]	Loss: 0.0067	LR: 0.000800
+epoch 161 training time consumed: 63.76s
+Evaluating Network.....
+Test set: Epoch: 161, Average loss: 0.0075, Accuracy: 0.7398, Time consumed:4.06s
+
+Training Epoch: 162 [128/50000]	Loss: 0.0068	LR: 0.000800
+Training Epoch: 162 [12928/50000]	Loss: 0.0066	LR: 0.000800
+Training Epoch: 162 [25728/50000]	Loss: 0.0043	LR: 0.000800
+Training Epoch: 162 [38528/50000]	Loss: 0.0078	LR: 0.000800
+epoch 162 training time consumed: 63.12s
+Evaluating Network.....
+Test set: Epoch: 162, Average loss: 0.0076, Accuracy: 0.7387, Time consumed:4.02s
+
+Training Epoch: 163 [128/50000]	Loss: 0.0048	LR: 0.000800
+Training Epoch: 163 [12928/50000]	Loss: 0.0047	LR: 0.000800
+Training Epoch: 163 [25728/50000]	Loss: 0.0053	LR: 0.000800
+Training Epoch: 163 [38528/50000]	Loss: 0.0050	LR: 0.000800
+epoch 163 training time consumed: 63.03s
+Evaluating Network.....
+Test set: Epoch: 163, Average loss: 0.0076, Accuracy: 0.7384, Time consumed:4.10s
+
+Training Epoch: 164 [128/50000]	Loss: 0.0047	LR: 0.000800
+Training Epoch: 164 [12928/50000]	Loss: 0.0075	LR: 0.000800
+Training Epoch: 164 [25728/50000]	Loss: 0.0042	LR: 0.000800
+Training Epoch: 164 [38528/50000]	Loss: 0.0101	LR: 0.000800
+epoch 164 training time consumed: 63.06s
+Evaluating Network.....
+Test set: Epoch: 164, Average loss: 0.0077, Accuracy: 0.7377, Time consumed:4.05s
+
+Training Epoch: 165 [128/50000]	Loss: 0.0057	LR: 0.000800
+Training Epoch: 165 [12928/50000]	Loss: 0.0057	LR: 0.000800
+Training Epoch: 165 [25728/50000]	Loss: 0.0051	LR: 0.000800
+Training Epoch: 165 [38528/50000]	Loss: 0.0076	LR: 0.000800
+epoch 165 training time consumed: 62.78s
+Evaluating Network.....
+Test set: Epoch: 165, Average loss: 0.0075, Accuracy: 0.7391, Time consumed:4.05s
+
+Training Epoch: 166 [128/50000]	Loss: 0.0044	LR: 0.000800
+Training Epoch: 166 [12928/50000]	Loss: 0.0062	LR: 0.000800
+Training Epoch: 166 [25728/50000]	Loss: 0.0059	LR: 0.000800
+Training Epoch: 166 [38528/50000]	Loss: 0.0080	LR: 0.000800
+epoch 166 training time consumed: 63.74s
+Evaluating Network.....
+Test set: Epoch: 166, Average loss: 0.0075, Accuracy: 0.7402, Time consumed:4.05s
+
+Training Epoch: 167 [128/50000]	Loss: 0.0065	LR: 0.000800
+Training Epoch: 167 [12928/50000]	Loss: 0.0050	LR: 0.000800
+Training Epoch: 167 [25728/50000]	Loss: 0.0067	LR: 0.000800
+Training Epoch: 167 [38528/50000]	Loss: 0.0060	LR: 0.000800
+epoch 167 training time consumed: 63.64s
+Evaluating Network.....
+Test set: Epoch: 167, Average loss: 0.0076, Accuracy: 0.7379, Time consumed:4.07s
+
+Training Epoch: 168 [128/50000]	Loss: 0.0092	LR: 0.000800
+Training Epoch: 168 [12928/50000]	Loss: 0.0062	LR: 0.000800
+Training Epoch: 168 [25728/50000]	Loss: 0.0095	LR: 0.000800
+Training Epoch: 168 [38528/50000]	Loss: 0.0094	LR: 0.000800
+epoch 168 training time consumed: 63.07s
+Evaluating Network.....
+Test set: Epoch: 168, Average loss: 0.0075, Accuracy: 0.7386, Time consumed:4.06s
+
+Training Epoch: 169 [128/50000]	Loss: 0.0052	LR: 0.000800
+Training Epoch: 169 [12928/50000]	Loss: 0.0072	LR: 0.000800
+Training Epoch: 169 [25728/50000]	Loss: 0.0079	LR: 0.000800
+Training Epoch: 169 [38528/50000]	Loss: 0.0047	LR: 0.000800
+epoch 169 training time consumed: 62.84s
+Evaluating Network.....
+Test set: Epoch: 169, Average loss: 0.0075, Accuracy: 0.7388, Time consumed:4.04s
+
+Training Epoch: 170 [128/50000]	Loss: 0.0056	LR: 0.000800
+Training Epoch: 170 [12928/50000]	Loss: 0.0066	LR: 0.000800
+Training Epoch: 170 [25728/50000]	Loss: 0.0084	LR: 0.000800
+Training Epoch: 170 [38528/50000]	Loss: 0.0061	LR: 0.000800
+epoch 170 training time consumed: 63.10s
+Evaluating Network.....
+Test set: Epoch: 170, Average loss: 0.0076, Accuracy: 0.7378, Time consumed:3.97s
+
+Training Epoch: 171 [128/50000]	Loss: 0.0060	LR: 0.000800
+Training Epoch: 171 [12928/50000]	Loss: 0.0064	LR: 0.000800
+Training Epoch: 171 [25728/50000]	Loss: 0.0064	LR: 0.000800
+Training Epoch: 171 [38528/50000]	Loss: 0.0063	LR: 0.000800
+epoch 171 training time consumed: 63.25s
+Evaluating Network.....
+Test set: Epoch: 171, Average loss: 0.0075, Accuracy: 0.7392, Time consumed:4.03s
+
+Training Epoch: 172 [128/50000]	Loss: 0.0054	LR: 0.000800
+Training Epoch: 172 [12928/50000]	Loss: 0.0058	LR: 0.000800
+Training Epoch: 172 [25728/50000]	Loss: 0.0054	LR: 0.000800
+Training Epoch: 172 [38528/50000]	Loss: 0.0098	LR: 0.000800
+epoch 172 training time consumed: 63.82s
+Evaluating Network.....
+Test set: Epoch: 172, Average loss: 0.0075, Accuracy: 0.7372, Time consumed:4.08s
+
+Training Epoch: 173 [128/50000]	Loss: 0.0118	LR: 0.000800
+Training Epoch: 173 [12928/50000]	Loss: 0.0048	LR: 0.000800
+Training Epoch: 173 [25728/50000]	Loss: 0.0055	LR: 0.000800
+Training Epoch: 173 [38528/50000]	Loss: 0.0042	LR: 0.000800
+epoch 173 training time consumed: 63.50s
+Evaluating Network.....
+Test set: Epoch: 173, Average loss: 0.0075, Accuracy: 0.7383, Time consumed:4.02s
+
+Training Epoch: 174 [128/50000]	Loss: 0.0051	LR: 0.000800
+Training Epoch: 174 [12928/50000]	Loss: 0.0063	LR: 0.000800
+Training Epoch: 174 [25728/50000]	Loss: 0.0067	LR: 0.000800
+Training Epoch: 174 [38528/50000]	Loss: 0.0064	LR: 0.000800
+epoch 174 training time consumed: 63.00s
+Evaluating Network.....
+Test set: Epoch: 174, Average loss: 0.0076, Accuracy: 0.7367, Time consumed:4.07s
+
+Training Epoch: 175 [128/50000]	Loss: 0.0071	LR: 0.000800
+Training Epoch: 175 [12928/50000]	Loss: 0.0052	LR: 0.000800
+Training Epoch: 175 [25728/50000]	Loss: 0.0057	LR: 0.000800
+Training Epoch: 175 [38528/50000]	Loss: 0.0104	LR: 0.000800
+epoch 175 training time consumed: 63.34s
+Evaluating Network.....
+Test set: Epoch: 175, Average loss: 0.0076, Accuracy: 0.7388, Time consumed:3.99s
+
+Training Epoch: 176 [128/50000]	Loss: 0.0110	LR: 0.000800
+Training Epoch: 176 [12928/50000]	Loss: 0.0050	LR: 0.000800
+Training Epoch: 176 [25728/50000]	Loss: 0.0045	LR: 0.000800
+Training Epoch: 176 [38528/50000]	Loss: 0.0076	LR: 0.000800
+epoch 176 training time consumed: 62.96s
+Evaluating Network.....
+Test set: Epoch: 176, Average loss: 0.0076, Accuracy: 0.7380, Time consumed:4.08s
+
+Training Epoch: 177 [128/50000]	Loss: 0.0089	LR: 0.000800
+Training Epoch: 177 [12928/50000]	Loss: 0.0085	LR: 0.000800
+Training Epoch: 177 [25728/50000]	Loss: 0.0053	LR: 0.000800
+Training Epoch: 177 [38528/50000]	Loss: 0.0107	LR: 0.000800
+epoch 177 training time consumed: 62.87s
+Evaluating Network.....
+Test set: Epoch: 177, Average loss: 0.0076, Accuracy: 0.7364, Time consumed:4.05s
+
+Training Epoch: 178 [128/50000]	Loss: 0.0062	LR: 0.000800
+Training Epoch: 178 [12928/50000]	Loss: 0.0054	LR: 0.000800
+Training Epoch: 178 [25728/50000]	Loss: 0.0051	LR: 0.000800
+Training Epoch: 178 [38528/50000]	Loss: 0.0071	LR: 0.000800
+epoch 178 training time consumed: 63.03s
+Evaluating Network.....
+Test set: Epoch: 178, Average loss: 0.0076, Accuracy: 0.7392, Time consumed:4.00s
+
+Training Epoch: 179 [128/50000]	Loss: 0.0060	LR: 0.000800
+Training Epoch: 179 [12928/50000]	Loss: 0.0126	LR: 0.000800
+Training Epoch: 179 [25728/50000]	Loss: 0.0074	LR: 0.000800
+Training Epoch: 179 [38528/50000]	Loss: 0.0044	LR: 0.000800
+epoch 179 training time consumed: 63.25s
+Evaluating Network.....
+Test set: Epoch: 179, Average loss: 0.0076, Accuracy: 0.7371, Time consumed:4.02s
+
+Training Epoch: 180 [128/50000]	Loss: 0.0069	LR: 0.000800
+Training Epoch: 180 [12928/50000]	Loss: 0.0050	LR: 0.000800
+Training Epoch: 180 [25728/50000]	Loss: 0.0073	LR: 0.000800
+Training Epoch: 180 [38528/50000]	Loss: 0.0060	LR: 0.000800
+epoch 180 training time consumed: 63.09s
+Evaluating Network.....
+Test set: Epoch: 180, Average loss: 0.0076, Accuracy: 0.7388, Time consumed:4.03s
+
+Training Epoch: 181 [128/50000]	Loss: 0.0092	LR: 0.000800
+Training Epoch: 181 [12928/50000]	Loss: 0.0055	LR: 0.000800
+Training Epoch: 181 [25728/50000]	Loss: 0.0062	LR: 0.000800
+Training Epoch: 181 [38528/50000]	Loss: 0.0062	LR: 0.000800
+epoch 181 training time consumed: 63.45s
+Evaluating Network.....
+Test set: Epoch: 181, Average loss: 0.0076, Accuracy: 0.7366, Time consumed:4.03s
+
+Training Epoch: 182 [128/50000]	Loss: 0.0061	LR: 0.000800
+Training Epoch: 182 [12928/50000]	Loss: 0.0045	LR: 0.000800
+Training Epoch: 182 [25728/50000]	Loss: 0.0062	LR: 0.000800
+Training Epoch: 182 [38528/50000]	Loss: 0.0053	LR: 0.000800
+epoch 182 training time consumed: 63.36s
+Evaluating Network.....
+Test set: Epoch: 182, Average loss: 0.0076, Accuracy: 0.7387, Time consumed:3.99s
+
+Training Epoch: 183 [128/50000]	Loss: 0.0060	LR: 0.000800
+Training Epoch: 183 [12928/50000]	Loss: 0.0048	LR: 0.000800
+Training Epoch: 183 [25728/50000]	Loss: 0.0076	LR: 0.000800
+Training Epoch: 183 [38528/50000]	Loss: 0.0078	LR: 0.000800
+epoch 183 training time consumed: 63.22s
+Evaluating Network.....
+Test set: Epoch: 183, Average loss: 0.0076, Accuracy: 0.7378, Time consumed:3.99s
+
+Training Epoch: 184 [128/50000]	Loss: 0.0094	LR: 0.000800
+Training Epoch: 184 [12928/50000]	Loss: 0.0052	LR: 0.000800
+Training Epoch: 184 [25728/50000]	Loss: 0.0072	LR: 0.000800
+Training Epoch: 184 [38528/50000]	Loss: 0.0072	LR: 0.000800
+epoch 184 training time consumed: 63.02s
+Evaluating Network.....
+Test set: Epoch: 184, Average loss: 0.0076, Accuracy: 0.7366, Time consumed:3.99s
+
+Training Epoch: 185 [128/50000]	Loss: 0.0057	LR: 0.000800
+Training Epoch: 185 [12928/50000]	Loss: 0.0053	LR: 0.000800
+Training Epoch: 185 [25728/50000]	Loss: 0.0062	LR: 0.000800
+Training Epoch: 185 [38528/50000]	Loss: 0.0088	LR: 0.000800
+epoch 185 training time consumed: 63.33s
+Evaluating Network.....
+Test set: Epoch: 185, Average loss: 0.0077, Accuracy: 0.7368, Time consumed:4.01s
+
+Training Epoch: 186 [128/50000]	Loss: 0.0074	LR: 0.000800
+Training Epoch: 186 [12928/50000]	Loss: 0.0091	LR: 0.000800
+Training Epoch: 186 [25728/50000]	Loss: 0.0055	LR: 0.000800
+Training Epoch: 186 [38528/50000]	Loss: 0.0054	LR: 0.000800
+epoch 186 training time consumed: 63.02s
+Evaluating Network.....
+Test set: Epoch: 186, Average loss: 0.0076, Accuracy: 0.7379, Time consumed:4.01s
+
+Training Epoch: 187 [128/50000]	Loss: 0.0066	LR: 0.000800
+Training Epoch: 187 [12928/50000]	Loss: 0.0108	LR: 0.000800
+Training Epoch: 187 [25728/50000]	Loss: 0.0051	LR: 0.000800
+Training Epoch: 187 [38528/50000]	Loss: 0.0067	LR: 0.000800
+epoch 187 training time consumed: 63.63s
+Evaluating Network.....
+Test set: Epoch: 187, Average loss: 0.0076, Accuracy: 0.7381, Time consumed:4.03s
+
+Training Epoch: 188 [128/50000]	Loss: 0.0058	LR: 0.000800
+Training Epoch: 188 [12928/50000]	Loss: 0.0070	LR: 0.000800
+Training Epoch: 188 [25728/50000]	Loss: 0.0055	LR: 0.000800
+Training Epoch: 188 [38528/50000]	Loss: 0.0062	LR: 0.000800
+epoch 188 training time consumed: 63.22s
+Evaluating Network.....
+Test set: Epoch: 188, Average loss: 0.0076, Accuracy: 0.7380, Time consumed:4.06s
+
+Training Epoch: 189 [128/50000]	Loss: 0.0054	LR: 0.000800
+Training Epoch: 189 [12928/50000]	Loss: 0.0069	LR: 0.000800
+Training Epoch: 189 [25728/50000]	Loss: 0.0056	LR: 0.000800
+Training Epoch: 189 [38528/50000]	Loss: 0.0042	LR: 0.000800
+epoch 189 training time consumed: 63.29s
+Evaluating Network.....
+Test set: Epoch: 189, Average loss: 0.0077, Accuracy: 0.7373, Time consumed:4.10s
+
+Training Epoch: 190 [128/50000]	Loss: 0.0042	LR: 0.000800
+Training Epoch: 190 [12928/50000]	Loss: 0.0055	LR: 0.000800
+Training Epoch: 190 [25728/50000]	Loss: 0.0112	LR: 0.000800
+Training Epoch: 190 [38528/50000]	Loss: 0.0065	LR: 0.000800
+epoch 190 training time consumed: 62.87s
+Evaluating Network.....
+Test set: Epoch: 190, Average loss: 0.0076, Accuracy: 0.7367, Time consumed:4.00s
+
+Training Epoch: 191 [128/50000]	Loss: 0.0054	LR: 0.000800
+Training Epoch: 191 [12928/50000]	Loss: 0.0075	LR: 0.000800
+Training Epoch: 191 [25728/50000]	Loss: 0.0057	LR: 0.000800
+Training Epoch: 191 [38528/50000]	Loss: 0.0080	LR: 0.000800
+epoch 191 training time consumed: 63.11s
+Evaluating Network.....
+Test set: Epoch: 191, Average loss: 0.0076, Accuracy: 0.7365, Time consumed:4.09s
+
+Training Epoch: 192 [128/50000]	Loss: 0.0063	LR: 0.000800
+Training Epoch: 192 [12928/50000]	Loss: 0.0055	LR: 0.000800
+Training Epoch: 192 [25728/50000]	Loss: 0.0057	LR: 0.000800
+Training Epoch: 192 [38528/50000]	Loss: 0.0061	LR: 0.000800
+epoch 192 training time consumed: 63.49s
+Evaluating Network.....
+Test set: Epoch: 192, Average loss: 0.0076, Accuracy: 0.7382, Time consumed:4.02s
+
+Training Epoch: 193 [128/50000]	Loss: 0.0050	LR: 0.000800
+Training Epoch: 193 [12928/50000]	Loss: 0.0065	LR: 0.000800
+Training Epoch: 193 [25728/50000]	Loss: 0.0065	LR: 0.000800
+Training Epoch: 193 [38528/50000]	Loss: 0.0051	LR: 0.000800
+epoch 193 training time consumed: 63.44s
+Evaluating Network.....
+Test set: Epoch: 193, Average loss: 0.0077, Accuracy: 0.7382, Time consumed:4.09s
+
+Training Epoch: 194 [128/50000]	Loss: 0.0071	LR: 0.000800
+Training Epoch: 194 [12928/50000]	Loss: 0.0046	LR: 0.000800
+Training Epoch: 194 [25728/50000]	Loss: 0.0062	LR: 0.000800
+Training Epoch: 194 [38528/50000]	Loss: 0.0101	LR: 0.000800
+epoch 194 training time consumed: 63.20s
+Evaluating Network.....
+Test set: Epoch: 194, Average loss: 0.0076, Accuracy: 0.7364, Time consumed:4.01s
+
+Training Epoch: 195 [128/50000]	Loss: 0.0066	LR: 0.000800
+Training Epoch: 195 [12928/50000]	Loss: 0.0049	LR: 0.000800
+Training Epoch: 195 [25728/50000]	Loss: 0.0071	LR: 0.000800
+Training Epoch: 195 [38528/50000]	Loss: 0.0045	LR: 0.000800
+epoch 195 training time consumed: 63.45s
+Evaluating Network.....
+Test set: Epoch: 195, Average loss: 0.0077, Accuracy: 0.7357, Time consumed:4.01s
+
+Training Epoch: 196 [128/50000]	Loss: 0.0071	LR: 0.000800
+Training Epoch: 196 [12928/50000]	Loss: 0.0069	LR: 0.000800
+Training Epoch: 196 [25728/50000]	Loss: 0.0057	LR: 0.000800
+Training Epoch: 196 [38528/50000]	Loss: 0.0065	LR: 0.000800
+epoch 196 training time consumed: 63.52s
+Evaluating Network.....
+Test set: Epoch: 196, Average loss: 0.0077, Accuracy: 0.7363, Time consumed:4.16s
+
+Training Epoch: 197 [128/50000]	Loss: 0.0050	LR: 0.000800
+Training Epoch: 197 [12928/50000]	Loss: 0.0061	LR: 0.000800
+Training Epoch: 197 [25728/50000]	Loss: 0.0093	LR: 0.000800
+Training Epoch: 197 [38528/50000]	Loss: 0.0051	LR: 0.000800
+epoch 197 training time consumed: 63.44s
+Evaluating Network.....
+Test set: Epoch: 197, Average loss: 0.0077, Accuracy: 0.7373, Time consumed:3.96s
+
+Training Epoch: 198 [128/50000]	Loss: 0.0086	LR: 0.000800
+Training Epoch: 198 [12928/50000]	Loss: 0.0066	LR: 0.000800
+Training Epoch: 198 [25728/50000]	Loss: 0.0094	LR: 0.000800
+Training Epoch: 198 [38528/50000]	Loss: 0.0054	LR: 0.000800
+epoch 198 training time consumed: 63.17s
+Evaluating Network.....
+Test set: Epoch: 198, Average loss: 0.0076, Accuracy: 0.7349, Time consumed:4.06s
+
+Training Epoch: 199 [128/50000]	Loss: 0.0065	LR: 0.000800
+Training Epoch: 199 [12928/50000]	Loss: 0.0062	LR: 0.000800
+Training Epoch: 199 [25728/50000]	Loss: 0.0059	LR: 0.000800
+Training Epoch: 199 [38528/50000]	Loss: 0.0053	LR: 0.000800
+epoch 199 training time consumed: 63.04s
+Evaluating Network.....
+Test set: Epoch: 199, Average loss: 0.0077, Accuracy: 0.7366, Time consumed:4.05s
+
+Training Epoch: 200 [128/50000]	Loss: 0.0051	LR: 0.000800
+Training Epoch: 200 [12928/50000]	Loss: 0.0085	LR: 0.000800
+Training Epoch: 200 [25728/50000]	Loss: 0.0061	LR: 0.000800
+Training Epoch: 200 [38528/50000]	Loss: 0.0078	LR: 0.000800
+epoch 200 training time consumed: 62.93s
+Evaluating Network.....
+Test set: Epoch: 200, Average loss: 0.0077, Accuracy: 0.7365, Time consumed:4.07s
+
